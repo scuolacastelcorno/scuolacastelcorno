@@ -1,6 +1,6 @@
 ---
 title: Scuola Castel Corno
-logo: /img/logo.svg
+logo: img/2014_0621-22-cevedale-sdim0025-star_.jpg
 contact_entries:
   - heading: Location
     text: 3153 Lynn Avenue, South San Francisco, California 94080
