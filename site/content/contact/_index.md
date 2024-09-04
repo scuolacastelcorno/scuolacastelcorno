@@ -1,19 +1,11 @@
 ---
-title: Scuola Castel Corno
+title: Contatti
 logo: img/2014_0621-22-cevedale-sdim0025-star_.jpg
-contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+contact_entries: []
 ---
+## **Sede SAT Rovereto e Mori**
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+[Corso Antonio Rosmini, 53, 38068 Rovereto TN](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47820ebbcbbe1d47:0x9193f1d10b3afe45?sa=X&ved=1t:8290&ictx=111)
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+[Via Cooperazione, 18, 38065 Mori TN]
+(https://www.google.com/maps/place//data=!4m2!3m1!1s0x47820f9a4cec4e5f:0x8bf222087ed77a77?sa=X&ved=1t:8290&ictx=111)
