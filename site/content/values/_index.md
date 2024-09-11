@@ -1,6 +1,6 @@
 ---
 title: Chi siamo
-image: /img/about-jumbotron.jpg
+image: img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg
 values:
   - heading: "La storia: dalle origini al presente​"
     text: >-
@@ -33,7 +33,7 @@ values:
       Nel 1992, conforme alle direttive della Comissione Nazionale, vengono riunificati tutti i corsi e la Scuola assume la nuova denominazione di “Scuola di Alpinismo e Scialpinismo Castel Corno di Rovereto e Mori”.
 
       Dal 1996 si sono susseguiti alla direzione della Scuola, prima Renato Lorenzi poi Mauro Bolognani quindi Giuliano Modena, mentre i corsi sono stati diretti dai migliori istruttori che si sono andati formando nella Scuola stessa. Grazie al contributo dei direttori passati e dell'organico sensibili a fondere innovazione e tradizioni oggi (ottobre 2013) Mauro Manfrini diventa direttore continuando a credere nell'idea di una scuola dinamica, competente e rivolta ad offire ad allievi ed istruttori la passione per i monti.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/2015_0330-majella-sdim0037.jpg
   - heading: ​Organico
     text: |-
       Direttore scuola: Perottoni Matteo INA -
