@@ -1,5 +1,9 @@
+# when using the default proxy server port
+local_backend: true
+
 backend:
   name: git-gateway
+  repo: marcorobol/one-click-hugo-cms
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
