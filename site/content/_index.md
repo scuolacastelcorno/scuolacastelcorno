@@ -1,20 +1,25 @@
 ---
+organico:
+  heading: Organico
+  text: Qui sono in content/_index.md
+  image: img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg
+intro:
+  heading: Corsi 2024
+  text: "Corsi in programma per il 2024:"
 title: Scuola Alpinismo Scialpinismo Castel Corno
-subtitle: "CAI SAT Rovereto e Mori "
-image: img/191206941.jpg
+subtitle: CAI SAT Rovereto e Mori
+contatti:
+  heading: Contatti
+  text: Rovereto - Mori
 blurb:
   heading: Corsi e formazione in montagna
   text: Corsi di avvicinamento e perfezionamento allo scialpinismo, alpinismo e
     all'arrampicata.
-intro:
-  heading: Corsi 2024
-  text: "Corsi in programma per il 2024:"
-products:
-  - image: img/2015_0315-mandron-pisgana-sdim0219-3star_.jpg
-    text: Scialpinismo (SA1) Gennaio-Marzo
-  - image: img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
-    text: Alpinismo su Roccia (AR1) Maggio-Giugno
-values:
-  heading: Contatti
-  text: Rovereto - Mori
+image: img/191206941.jpg
+corsi:
+  - asd
+scuola:
+  heading: "La storia: dalle origini al presente"
+  text: Qui sono in content/_index.md
+  image: img/2014_0621-22-cevedale-sdim0025-star_.jpg
 ---

@@ -4,9 +4,11 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+{{ partial "short-text" (dict "heading" .Params.scuola.heading "text" .Params.scuola.text "buttonText" "Read more" "buttonLink" "/scuola") }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" .Data }}
+
+{{ .Site.Data }}
 
 {{ partial "blog" . }}
 

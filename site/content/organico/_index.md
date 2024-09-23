@@ -1,0 +1,50 @@
+---
+title: ​Organico
+image: img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg
+---
+- **Direttore scuola**: Perottoni Matteo INA
+- ***Vicedirettore alpinismo***: Natali Mauro INA
+- ***Vicedirettore scialpinismo***: Micheli Alberto ISA, IA
+- ***​Vicedirettore arrampicata libera***: Bonapace Giulio IAL IAEE ISA
+---
+-  Arnone Andrea AIA
+-  Battistotti Riccardo IAL, IAEE
+-  Bolner Matteo AIA
+-  Bolognani Mauro INA
+-  Caden Paolo INSA
+-  Caden Marco ISA
+-  Candioli Thomas IAL
+-  Cappelletti Alessandro ISA
+-  Caracristi Marina ISA
+-  Casarotto Cristian IS
+-  Cavalieri Marco IAEMER
+-  Comencini Pierluigi ISA
+-  Dionisi Marta IAL, IAEE​​
+-  ​Fait Roberto IS
+-  ​​Farinati Christian IS
+-  Filippi Doriano IA
+-  Gilmozzi Andrea INSA, IA
+-  Lorenzi Renato INSA, INA
+-  Luzzi Veronica AIA
+-  Manfrini Mauro IA, INSA
+-  Mambrini Devid GA, IA
+-  Martini Giancarlo IA, ISA
+-  Mazzola Mauro ISA, ESVI
+-  Michelini Alan GA
+-  Modena Christian IAL
+-  Modena Giuliano INA
+-  Moretto Davide IAL, IA
+-  Perenzoni Gabriel IA, ISA, GA
+-  Perghem Pio IS
+-  Perottoni Maurizio IA
+-  Piazza Walter ISA
+-  Poli Fabio IA
+-  Rigo Fabio IA
+-  Robol Marco ISA
+-  Silvestri Gianni IAL
+-  Simoncelli Leonardo IAL
+-  Spagnolli Raffaele ISA, AT
+-  Speccher Alessandro AIS
+-  Tranquillini Mario INAEMER - ISA
+-  Vigagni Piarosa ISA
+-  Waldner ​Maddalena AIS
