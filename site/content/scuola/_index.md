@@ -31,3 +31,83 @@ Vengono inoltre istituiti in maniera continuativa anche i corsi di Scialpinismo 
 Nel 1992, conforme alle direttive della Comissione Nazionale, vengono riunificati tutti i corsi e la Scuola assume la nuova denominazione di “Scuola di Alpinismo e Scialpinismo Castel Corno di Rovereto e Mori”.
 
 Dal 1996 si sono susseguiti alla direzione della Scuola, prima Renato Lorenzi poi Mauro Bolognani quindi Giuliano Modena, mentre i corsi sono stati diretti dai migliori istruttori che si sono andati formando nella Scuola stessa. Grazie al contributo dei direttori passati e dell'organico sensibili a fondere innovazione e tradizioni oggi (ottobre 2013) Mauro Manfrini diventa direttore continuando a credere nell'idea di una scuola dinamica, competente e rivolta ad offire ad allievi ed istruttori la passione per i monti.
+
+![Organico](img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg "Organico")
+
+**Organico**
+
+|                                         |                              |
+| --------------------------------------- | ---------------------------- |
+| **Direttore scuola**                    | Perottoni Matteo INA         |
+| ***Vicedirettore alpinismo***           | Natali Mauro INA             |
+| ***Vicedirettore scialpinismo***        | Micheli Alberto ISA, IA      |
+| ***​Vicedirettore arrampicata libera*** | Bonapace Giulio IAL IAEE ISA |
+
+- - -
+
+|                                  |                               |
+| -------------------------------- | ----------------------------- |
+| Arnone Andrea AIA                | Manfrini Mauro IA, INSA       |
+| Battistotti Riccardo IAL, IAEE   | Mambrini Devid GA, IA         |
+| Bolner Matteo AIA                | Martini Giancarlo IA, ISA     |
+| Bolognani Mauro INA              | Mazzola Mauro ISA, ESVI       |
+| Caden Paolo INSA                 | Michelini Alan GA             |
+| Caden Marco ISA                  | Modena Christian IAL          |
+| Candioli Thomas IAL              | Modena Giuliano INA           |
+| Cappelletti Alessandro ISA       | Moretto Davide IAL, IA        |
+| Caracristi Marina ISA            | Perenzoni Gabriel IA, ISA, GA |
+| Casarotto Cristian IS            | Perghem Pio IS                |
+| Cavalieri Marco IAEMER           | Perottoni Maurizio IA         |
+| Comencini Pierluigi ISA          | Piazza Walter ISA             |
+| Dionisi Marta IAL, IAEE​​        | Poli Fabio IA                 |
+| ​Fait Roberto IS                 | Rigo Fabio IA                 |
+| ​​Farinati Christian IS          | Robol Marco ISA               |
+| Filippi Doriano IA               | Silvestri Gianni IAL          |
+| Gilmozzi Andrea INSA, IA         | Simoncelli Leonardo IAL       |
+| Lorenzi Renato INSA, INA         | Spagnolli Raffaele ISA, AT    |
+| Luzzi Veronica AIA               | Speccher Alessandro AIS       |
+| Tranquillini Mario INAEMER - ISA | Vigagni Piarosa ISA           |
+| Waldner ​Maddalena AIS           |                               |
+
+<!-- 
+\* Arnone Andrea AIA
+\* Battistotti Riccardo IAL, IAEE
+\* Bolner Matteo AIA
+\* Bolognani Mauro INA
+\* Caden Paolo INSA
+\* Caden Marco ISA
+\* Candioli Thomas IAL
+\* Cappelletti Alessandro ISA
+\* Caracristi Marina ISA
+\* Casarotto Cristian IS
+\* Cavalieri Marco IAEMER
+\* Comencini Pierluigi ISA
+\* Dionisi Marta IAL, IAEE​​
+\* ​Fait Roberto IS
+\* ​​Farinati Christian IS
+\* Filippi Doriano IA
+\* Gilmozzi Andrea INSA, IA
+\* Lorenzi Renato INSA, INA
+\* Luzzi Veronica AIA
+\* Manfrini Mauro IA, INSA
+\* Mambrini Devid GA, IA
+\* Martini Giancarlo IA, ISA
+\* Mazzola Mauro ISA, ESVI
+\* Michelini Alan GA
+\* Modena Christian IAL
+\* Modena Giuliano INA
+\* Moretto Davide IAL, IA
+\* Perenzoni Gabriel IA, ISA, GA
+\* Perghem Pio IS
+\* Perottoni Maurizio IA
+\* Piazza Walter ISA
+\* Poli Fabio IA
+\* Rigo Fabio IA
+\* Robol Marco ISA
+\* Silvestri Gianni IAL
+\* Simoncelli Leonardo IAL
+\* Spagnolli Raffaele ISA, AT
+\* Speccher Alessandro AIS
+\* Tranquillini Mario INAEMER - ISA
+\* Vigagni Piarosa ISA
+* Waldner ​Maddalena AIS -->

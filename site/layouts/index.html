@@ -1,15 +1,39 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "logo" .Params.logo "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+<!-- Logo e intro -->
+<div class="bg-grey-1 pv4">
+    <div class="flex-l mhn1-l ph3 center mw7" style="display: flex">
+        {{ .Content }}
+    </div>
+</div>
 
-{{ partial "short-text" (dict "heading" .Params.scuola.heading "text" .Params.scuola.text "buttonText" "Read more" "buttonLink" "/scuola") }}
+<!-- Titolo sezione corsi -->
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		<h2 class="f2 b lh-title mb3">{{ (.Site.GetPage "/corsi").Title }}</h2>
+		{{ (.Site.GetPage "/corsi").Content }}
+	</div>
+</div>
 
-{{ partial "text-and-image" .Data }}
+<!-- Corsi -->
+<div class="mw7 center">
+    <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
+        {{ range where .Site.RegularPages "Type" "course" }}
+            <li class="w-50-ns ph1-ns flex">
+              {{ .Render "li"}}
+            </li>
+        {{ end }}
+    </ul>
+    {{ partial "pagination" . }}
+</div>
 
-{{ .Site.Data }}
+{{ partial "short-text" (dict "heading" (.Site.GetPage "/scuola/").Title "text" (.Site.GetPage "/scuola/").Content "image" (.Site.GetPage "/scuola/").Params.image "buttonText" "Read more" "buttonLink" "/scuola") }}
 
+<!-- Blog -->
 {{ partial "blog" . }}
+
+<div style="margin:0 auto;" id="zbwid-a7110343"></div>
 
 {{ end }}

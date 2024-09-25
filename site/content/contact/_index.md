@@ -1,11 +1,6 @@
 ---
 title: Contatti
 logo: img/2014_0621-22-cevedale-sdim0025-star_.jpg
-contact_entries:
-  - heading: SAT Rovereto
-    text: "[Corso Antonio Rosmini, 53, 38068 Rovereto
-      TN](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47820ebbcbbe1d47\
-      :0x9193f1d10b3afe45?sa=X&ved=1t:8290&ictx=111)"
 ---
 ## **Sede SAT Rovereto e Mori**
 

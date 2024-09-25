@@ -6,3 +6,12 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/2014_0621-22-cevedale-sdim0025-star_.jpg"]
+
+[markup]
+    defaultMarkdownHandler = 'goldmark'
+    [markup.goldmark.parser]
+        [markup.goldmark.parser.attribute]
+            block = true
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe = true

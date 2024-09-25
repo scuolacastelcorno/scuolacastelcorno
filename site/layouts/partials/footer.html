@@ -4,7 +4,7 @@
 
 		<div class="measure-narrow center mb4">
 
-			<img src="/img/logocastelcorno.png" alt="Scuola Caste Corno" class="db w4 center mb4 br0">
+			<img src="/img/logocastelcorno-contrast.png" alt="Scuola Caste Corno" class="db w4 center mb4 br0">
 			<p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.footer.title }}</p>
 			<p>{{ .Site.Data.footer.blurb }}</p>
 
@@ -35,10 +35,11 @@
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social</h3>
+				<h3 class="f4 b lh-title mb2 primary">Contatti</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook" "alt" "Scuola Castel Corno on Facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram" "alt" "Scuola Castel Corno on Instagram") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/scuolacastelcorno/" "svg" "icons-facebook" "alt" "Scuola Castel Corno on Facebook") }}
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/scuolacastelcornosat/" "svg" "icons-instagram" "alt" "Scuola Castel Corno on Instagram") }}
+					{{ partial "social-icon" (dict "link" "mailto:webscuolacastelcorno@googlegroups.com" "svg" "icons-mail" "alt" "Scuola Castel Corno mail") }}
 				</ul>
 			</div>
 

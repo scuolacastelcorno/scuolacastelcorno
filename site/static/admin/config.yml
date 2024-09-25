@@ -28,6 +28,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Course" # Used in the UI, ie.: "New Course"
     folder: "site/content/course" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
+    media_folder: "/site/static/img" # Folder where user uploaded files should go
+    public_folder: "/img"
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -37,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
         default: "{{now}}"
         date_format: "MMMM YYYY" # e.g. February 2021
         picker_utc: false
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   
   - name: "pages"
@@ -62,18 +64,18 @@ collections: # A list of collections the CMS should be able to edit
               value_field: "title"
               search_fields: ["title", "date"]
               display_fields: ["title", "date"]
+          - {label: Body, name: body, widget: markdown}
+      
+      - file: "site/content/corsi/_index.md"
+        label: "Corsi"
+        name: "corsi"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
       
       - file: "site/content/scuola/_index.md"
         label: "La scuola"
         name: "scuola"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Body, name: body, widget: markdown}
-      
-      - file: "site/content/organico/_index.md"
-        label: "Organico"
-        name: "organico"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
