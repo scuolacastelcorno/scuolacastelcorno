@@ -25,11 +25,16 @@
 				</ul>
 			</div>
 
+			<!-- Corsi -->
 			<div>
 				<h3 class="f4 b lh-title mb1 primary">Corsi</h3>
 				<ul class="mb3">
-					{{ range (where .Site.Pages "Type" "post") }}
-						<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+					{{ with .Site.GetPage "section" "corsi" }}
+        				{{ range last 1 (sort .Sections "Permalink") }}
+							{{ range .Pages }}
+								<li><a href="{{ .Permalink }}" class="link">{{ .Title }}</a></li>
+							{{ end }}
+						{{ end }}
 					{{ end }}
 				</ul>
 			</div>

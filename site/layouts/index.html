@@ -10,25 +10,29 @@
 </div>
 
 <!-- Titolo sezione corsi -->
-<div class="bg-off-white pv4">
+<!-- <div class="bg-off-white pt4">
 	<div class="ph3 mw7 center">
 		<h2 class="f2 b lh-title mb3">{{ (.Site.GetPage "/corsi").Title }}</h2>
 		{{ (.Site.GetPage "/corsi").Content }}
 	</div>
-</div>
+</div> -->
 
 <!-- Corsi -->
-<div class="mw7 center">
+<div class="mw7 center pt4">
     {{ with .Site.GetPage "section" "corsi" }}
-        <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-            {{ range last 1 (sort .Sections "Permalink") }}
-                {{ range .Pages }}
-                    <li class="w-50-ns ph1-ns flex">
-                        {{ .Render "li"}}
-                    </li>
-                {{ end }}
-            {{ end }}
-        </ul>
+        {{ range last 1 (sort .Sections "Permalink") }}
+            <div class="ph3">
+                <h2 class="f2 b lh-title mb3">{{ .Title }}</h2>
+                {{ .Content }}
+            </div>
+            <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
+                    {{ range .Pages }}
+                        <li class="w-50-ns ph1-ns flex">
+                            {{ .Render "li"}}
+                        </li>
+                    {{ end }}
+            </ul>
+        {{ end }}
     {{ end }}
 </div>
 
