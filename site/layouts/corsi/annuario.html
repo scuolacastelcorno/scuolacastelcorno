@@ -1,22 +1,30 @@
 {{ define "main" }}
 
-    {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" "stagione") }}
+    {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" "Vecchi e nuovi") }}
 
     <div class="ph3 pv4 mw7 center">
         
+        {{ range (sort .Pages "Permalink").Reverse }}
+
+            <a href="{{ .Permalink }}">
+                <h2 class="f2 b lh-title mb3">{{ .Title }}</h2>
+            </a>
+            
+            {{ .Content }}
+            
             <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
         
                 {{ range .Pages }}
                     
                     <li class="w-50-ns ph1-ns flex">
-                    
                         {{ .Render "li" }}
-                    
                     </li>
                     
                 {{ end }}
 
             </ul>
+
+        {{ end }}
 
     </div>
     

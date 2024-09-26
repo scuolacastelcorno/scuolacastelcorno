@@ -7,8 +7,8 @@ backend:
   repo: marcorobol/one-click-hugo-cms
   branch: main
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+media_folder: "/site/static/img" # Folder where user uploaded files should go
+public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
 
@@ -16,6 +16,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
+    media_folder: "/site/static/img" # Folder where user uploaded files should go
+    public_folder: "/img"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -24,10 +26,34 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "course" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Course" # Used in the UI, ie.: "New Course"
-    folder: "site/content/course" # The path to the folder where the documents are stored
+  - name: "corsi" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Corsi" # Used in the UI, ie.: "Nuovi Corsi"
+    folder: "site/content/corsi" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
+    media_folder: "/site/static/img" # Folder where user uploaded files should go
+    public_folder: "/img"
+    create: true # Allow users to create new documents in this collection
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 3 # max depth to show in the collection tree
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        default: "{{now}}"
+        date_format: "MMMM YYYY" # e.g. February 2021
+        picker_utc: false
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "stagioni" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Stagioni" # Used in the UI, ie.: "Nuovi Corsi"
+    folder: "site/content/corsi" # The path to the folder where the documents are stored
+    path: "{{slug}}/_index" # Each document is inside a folder with the slug name.
     media_folder: "/site/static/img" # Folder where user uploaded files should go
     public_folder: "/img"
     create: true # Allow users to create new documents in this collection
@@ -60,7 +86,7 @@ collections: # A list of collections the CMS should be able to edit
               label: "Corso"
               name: "corso"
               widget: "relation"
-              collection: "course"
+              collection: "corsi"
               value_field: "title"
               search_fields: ["title", "date"]
               display_fields: ["title", "date"]

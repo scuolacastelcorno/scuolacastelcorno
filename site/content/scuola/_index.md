@@ -1,6 +1,6 @@
 ---
 title: "La storia: dalle origini al presente​"
-image: img/2015_0330-majella-sdim0037.jpg
+image: img/2014_0621-22-cevedale-sdim000-e8fa829f9c061c02.jpg
 ---
 Nei primi anni sessanta nasce all’interno della sezione Sat di Rovereto,
 allora diretta dal neo presidente Bruno Binil’esigenza di insegnare ai

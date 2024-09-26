@@ -19,21 +19,22 @@
 
 <!-- Corsi -->
 <div class="mw7 center">
-    <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-        {{ range where .Site.RegularPages "Type" "course" }}
-            <li class="w-50-ns ph1-ns flex">
-              {{ .Render "li"}}
-            </li>
-        {{ end }}
-    </ul>
-    {{ partial "pagination" . }}
+    {{ with .Site.GetPage "section" "corsi" }}
+        <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
+            {{ range last 1 (sort .Sections "Permalink") }}
+                {{ range .Pages }}
+                    <li class="w-50-ns ph1-ns flex">
+                        {{ .Render "li"}}
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    {{ end }}
 </div>
 
 {{ partial "short-text" (dict "heading" (.Site.GetPage "/scuola/").Title "text" (.Site.GetPage "/scuola/").Content "image" (.Site.GetPage "/scuola/").Params.image "buttonText" "Read more" "buttonLink" "/scuola") }}
 
 <!-- Blog -->
-{{ partial "blog" . }}
-
-<div style="margin:0 auto;" id="zbwid-a7110343"></div>
+<!-- {{ partial "blog" . }} -->
 
 {{ end }}
