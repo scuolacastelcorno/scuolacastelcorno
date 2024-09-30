@@ -1,7 +1,7 @@
 .mobile-menu-container {
     cursor: pointer;
     display: block;
-    padding: var(--spacing-medium) var(--spacing-small) 0 0;
+    padding: var(--spacing-large) var(--spacing-large) 0 0;
     position: absolute;
     right: 0;
     top: 0;
@@ -9,22 +9,38 @@
 }
 
 .nav-menu {
-    background: white;
-    box-shadow: inset 0 -4px 0 var(--grey-1);
+    // background-color: rgba(255, 255, 255, 0.9);
+    // box-shadow: inset 0 -4px 0 var(--grey-1);
     flex-direction: column;
     height: 0;
     right: 0;
     overflow-y: auto;
-    position: absolute;
-    top: calc(var(--spacing-medium) + 30px);
+    // position: absolute;
+    top: calc(var(--spacing-medium) + 70px);
     transition: height .3s ease-in-out;
     min-width: 100%;
     z-index: 1;
 }
 
+.nav-menu a {
+    color: white;
+    width: fit-content;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
 .mobile-menu-inner {
     transition: all .3s ease-in-out;
 }
+
+.menu-open {
+    // background: white !important;
+    background-color: var(--grey-2);
+}
+
+// .menu-open li > a {
+//     color: white;
+// }
 
 .menu-open .nav-menu {
     height: auto;
@@ -48,9 +64,24 @@
     }
 
     .nav-menu {
+        transition: background-color 0.3s;
+        background: transparent;
         flex-direction: row;
         position: static;
         min-width: unset;
         height: auto;
     }
+    
+}
+
+// .nav-transparent {
+//     transition: background-color 1s;
+//     background-color: transparent;
+// }
+
+.nav-colored {
+    transition: background-color 0.3s;
+    // background-color: rgba(255, 255, 255, 0.9);
+    background-color: var(--grey-2);
+    color: black;
 }

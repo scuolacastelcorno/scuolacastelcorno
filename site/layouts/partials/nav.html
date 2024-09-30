@@ -1,11 +1,13 @@
-<nav data-nav class="flex justify-between items-center center bg-white divider-grey relative">
+<nav id="nav" data-nav class="flex flex-wrap justify-between items-center center fixed w-100" style="z-index: 100;">
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logocastelcorno.png	" alt="Logo" class="br0 db mb0 w-80"/>
+	<a href="/" class="pa2 db mr4 h-100 w6 flex-none no-underline flex items-center">
+		<!-- Logo -->
+		<img src="/img/logocastelcorno-notext.png" alt="Logo" class="ml3 db mb0 h3"/>
+		<!-- Title -->
+		<h1 class="ml3 f4 tracked-mega-ns">Scuola Castel Corno</h1>
 	</a>
 
-	<!-- Primary Nav -->
+	<!-- Mobile Menu Container -->
 	<div data-mobile-menu class="mobile-menu-container">
 		<svg viewBox="0 0 100 80" width="40" height="25" class="mobile-menu-icon">
 			<rect class="menu-icon-top mobile-menu-inner" width="100" height="8"></rect>
@@ -14,16 +16,13 @@
 		</svg>
 	</div>
 
+	<!-- Nav Menu -->
 	<ul class="flex b grey-3 nav-menu">
-		<li><a href="/" class="pa3 no-underline db">Home</a></li>
-
-		<li><a href="/corsi" class="pa3 no-underline db">Corsi</a></li>
-
-		<li><a href="/scuola" class="pa3 no-underline db">La scuola</a></li>
-
-		<!-- <li><a href="/post" class="pa3 no-underline db">Blog</a></li> -->
-
-		<li><a href="/contact" class="pa3 no-underline db">Contatti</a></li>
+		<li><a href="/" class="ma3 no-underline db bg-primary">Home</a></li>
+		<li><a href="/corsi" class="ma3 no-underline db bg-primary">Corsi</a></li>
+		<li><a href="/scuola" class="ma3 no-underline db bg-primary">La scuola</a></li>
+		<!-- <li><a href="/post" class="pa3 no-underline db bg-primary">Blog</a></li> -->
+		<li><a href="/contact" class="ma3 no-underline db bg-primary">Contatti</a></li>
 	</ul>
 
 </nav>

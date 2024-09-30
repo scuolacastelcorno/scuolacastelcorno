@@ -1,7 +1,9 @@
 ---
-title: "La storia: dalle origini al presente​"
+title: "La Scuola"
 image: img/2014_0621-22-cevedale-sdim000-e8fa829f9c061c02.jpg
 ---
+**La storia: dalle origini al presente​**
+
 Nei primi anni sessanta nasce all’interno della sezione Sat di Rovereto,
 allora diretta dal neo presidente Bruno Binil’esigenza di insegnare ai
 giovani alcune nozioni base per affrontare in sicurezza la montagna
