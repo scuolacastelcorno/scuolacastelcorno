@@ -1,14 +1,15 @@
 ---
-title: Scuola Castel Corno
-subtitle: Alpinismo, Scialpinismo e Arrampicata Libera
+title: Castel Corno
+subtitle: Scuola di Alpinismo, Scialpinismo e Arrampicata Libera
 image: img/191206941.jpg
+# logo: img/logocastelcorno-notext.png
 ---
 <!-- https://tachyons.io/ -->
 
 <!-- Corsi di avvicinamento e perfezionamento allo scialpinismo, alpinismo e all'arrampicata.
 {.pa1 .w-100} -->
 
-<img src="img/logo-sat.png" alt="Scuola Castel Corno" title="Scuola Castel Corno" height="100px" style="padding: 10px">
+<img src="img/logo-sat.png" alt="CAI - SAT" title="CAI - SAT" height="100px" style="padding: 10px">
 <!-- ![CAI SAT](img/logo-sat.png "CAI SAT")
 {.w-50} -->
 
