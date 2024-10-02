@@ -1,5 +1,5 @@
 ---
-title: Scialpinismo base (SA1)
+title: 43° CORSO DI SCIALPINISMO BASE - SA1
 date: 2024-09-28T18:02:36.689Z
 image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
 start: 2025-01-15T18:02:36.689Z
@@ -15,28 +15,32 @@ Vicedirettore: **Raffaele Spagnolli** – 338 3837533
 
 - - -
 
-Il corso SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con tavola da **snowboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche ed uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. Agli allievi partecipanti è richiesta la presentazione di **certificato medico** che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024.
+Il corso SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con tavola da **snowboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche ed uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe.
 
 Numero max partecipanti: **24**
 
 - - -
 
-Quota d'iscrizione: 300 € (sotto i 21 anni 250 €). Versamento della quota il giorno XXX con presentazione di certificato medico e attestazione iscrizione CAI.
+Quota d'iscrizione: 300,00 € (250,00 € se minore di 21 anni ).
+
+GIORNO ORA XXXX: Versamento quota iscrizione presso sede SAT Rovereto (C.so Rosmini ,53 - Rovereto) con presentazione di:
+
+* certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
+* attestazione iscrizione CAI/SAT per l'anno in corso*.
 
 La quota d'iscrizione è comprensiva di:
 
-* Uso del materiale di autosoccorso (Artva, sonda e pala)
-* Dispensa
+* uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso
 
-Rimangono escluse le spese di vitto, alloggio (pernottamenti del 9 febbraio e 8 marzo) ed eventuali impianti di risalita.
+Rimangono escluse le spese di vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
-Per i non soci CAI/SAT, sarà possibile effettuare l’iscrizione al sodalizio con il versamento della quota alla Sezione SAT di Rovereto (https://www.satrovereto.it/)
+\*Per i non soci CAI/SAT, sarà possibile effettuare l’iscrizione al sodalizio con il versamento della quota alla Sezione SAT di Rovereto (https://www.satrovereto.it/) il giorno stesso dell'iscrizione
 
 - - -
 
-Lezioni:
+Programma del corso:
 
-* **Lezioni teoriche** ore 20.30 presso la sede S.A.T. di Rovereto (Corso Rosmini, 53 Rovereto)
+* <font color="red">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto (Corso Rosmini, 53 Rovereto)
 * **Lezioni pratiche** e uscite sul terreno, scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
 Programma:
