@@ -9,9 +9,9 @@ Direttore: Christian Casarotto – 351 8595312
 
 Vicedirettore: Raffaele Spagnolli – 338 3837533
 
-Apertura iscrizioni: dal xx/xx/2024 compilando il seguente [modulo on line](url)
+Iscrizioni dal xx/xx/2024 compilando il seguente [modulo on line](https://forms.gle/pqNFoZsVxQbThX7NA)
 
-Quota d'iscrizione: 300,00 € (250,00 € se minore di 21 anni ).
+Quota iscrizione: 300,00 € (250,00 € se minore di 21 anni )
 
 - - -
 
@@ -23,7 +23,7 @@ Numero massimo partecipanti: **24**
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
 * attestazione iscrizione CAI/SAT per l'anno in corso*. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
-La quota d'iscrizione è comprensiva di uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso
+La quota d'iscrizione è comprensiva di uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
