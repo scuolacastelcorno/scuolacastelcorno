@@ -1,6 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "it-IT"
+languageLang = "it"
+languageName = 'Italian'
 title = "Scuola Castel Corno"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 

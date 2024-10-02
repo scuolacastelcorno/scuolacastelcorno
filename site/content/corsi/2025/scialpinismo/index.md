@@ -2,6 +2,8 @@
 title: Scialpinismo base (SA1)
 date: 2024-09-28T18:02:36.689Z
 image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
+start: 2025-01-15T18:02:36.689Z
+end: 2025-03-14T18:02:36.689Z
 ---
 # 43° CORSO SCIALPINISMO BASE - SA1 - 2025
 

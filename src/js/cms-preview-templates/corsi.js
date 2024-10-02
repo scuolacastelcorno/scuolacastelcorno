@@ -4,11 +4,15 @@ import Jumbotron from "./components/jumbotron";
 
 export default class ProductsPreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const {entry, widgetFor, getAsset} = this.props;
     const image = getAsset(entry.getIn(["data", "image"]));
 
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
+
+      <div className="cms mw7">
+        { widgetFor("body") }
+      </div>
 
       <div className="bg-off-white pv4">
         <div className="ph3 mw7 center">

@@ -47,6 +47,8 @@ collections: # A list of collections the CMS should be able to edit
         default: "{{now}}"
         date_format: "MMMM YYYY" # e.g. February 2021
         picker_utc: false
+      - {label: "Start", name: "start", widget: "datetime", default: "{{now}}", date_format: "MMMM YYYY", picker_utc: false} # e.g. February 2021, 
+      - {label: "End", name: "end", widget: "datetime", default: "{{now}}", date_format: "MMMM YYYY", picker_utc: false} # e.g. February 2021, 
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
