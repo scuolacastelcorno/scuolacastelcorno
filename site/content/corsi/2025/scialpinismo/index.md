@@ -19,7 +19,7 @@ SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima vol
 
 Numero max partecipanti: **24**
 
-**GIORNO xxx ORA yyy**: Versamento quota iscrizione presso sede [SAT Rovereto] (https://www.satrovereto.it/) C.so Rosmini ,53 Rovereto con presentazione di:
+**GIORNO xxx ORA yyy**: Versamento quota iscrizione presso la sede [SAT Rovereto] (https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) C.so Rosmini ,53 Rovereto con presentazione di:
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
 * attestazione iscrizione CAI/SAT per l'anno in corso*. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
@@ -32,7 +32,7 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 
 
 Programma del corso:
 
-<font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto Corso Rosmini, 53 Rovereto *[qui sarebbe bello mettere la cartina]  
+<font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede [SAT Rovereto] (https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) Corso Rosmini, 53 Rovereto  
 <font color="blue">**Lezioni pratiche e uscite sul terreno** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
 * <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- [Montura Store ISERA](https://maps.app.goo.gl/giW1ZCt2mnnsZFE36) - Presentazione del corso. Materiali e attrezzatura  
