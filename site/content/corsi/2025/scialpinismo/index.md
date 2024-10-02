@@ -9,13 +9,13 @@ image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
 
 - - -
 
-Direttore: **Christian Casarotto** – 351 8595312
+Direttore: Christian Casarotto – 351 8595312
 
-Vicedirettore: **Raffaele Spagnolli** – 338 3837533
+Vicedirettore: Raffaele Spagnolli – 338 3837533
 
-Apertura iscrizioni: dal xx/xx/2024 compilando il seguente **modulo on line**
+Apertura iscrizioni: dal xx/xx/2024 compilando il seguente [**modulo on line**](url)
 
-Quota d'iscrizione: **300,00 €** (250,00 € se minore di 21 anni ).
+Quota d'iscrizione: 300,00 € (250,00 € se minore di 21 anni ).
 
 - - -
 
@@ -23,27 +23,22 @@ SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima vol
 
 Numero max partecipanti: **24**
 
-**GIORNO ORA XXXX**: Versamento quota iscrizione presso sede SAT Rovereto (C.so Rosmini ,53 - Rovereto) con presentazione di:
-
+**GIORNO ORA XXXX**: Versamento quota iscrizione presso sede [SAT Rovereto] (https://www.satrovereto.it/) C.so Rosmini ,53 - Rovereto con presentazione di:
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
-* attestazione iscrizione CAI/SAT per l'anno in corso*.
+* attestazione iscrizione CAI/SAT per l'anno in corso*. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
-La quota d'iscrizione è comprensiva di:
-
-* uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso
+La quota d'iscrizione è comprensiva di uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso
 
 Rimangono escluse le spese di vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
-*\* Per i non soci CAI/SAT, sarà possibile effettuare l’iscrizione al sodalizio con il versamento della quota alla Sezione SAT di Rovereto (https://www.satrovereto.it/) il giorno stesso dell'iscrizione*
 
 - - -
 
 Programma del corso:
 
-* <font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede [S.A.T. di Rovereto](https://www.satrovereto.it/) Corso Rosmini, 53 Rovereto \[qui sarebbe bello mettere la cartina]
-* <font color="blue">**Lezioni pratiche e uscite sul terreno** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
+<font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto Corso Rosmini, 53 Rovereto *[qui sarebbe bello mettere la cartina]
 
-Programma:
+<font color="blue">**Lezioni pratiche e uscite sul terreno** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
 * <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- Montura Store ISERA - Presentazione del corso. Materiali e attrezzatura
 * <font color="orange">**mercoledì 22 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
