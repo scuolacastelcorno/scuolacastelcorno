@@ -40,23 +40,23 @@ Rimangono escluse le spese di vitto, alloggio (pernottamenti del 9-10 febbraio e
 
 Programma del corso:
 
-* <font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto (Corso Rosmini, 53 Rovereto)
-* <font color="blue">**Lezioni pratiche** </font> e uscite sul terreno, scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
+* <font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede [S.A.T. di Rovereto](https://www.satrovereto.it/) Corso Rosmini, 53 Rovereto \[qui sarebbe bello mettere la cartina]
+* <font color="blue">**Lezioni pratiche e uscite sul terreno** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
 Programma:
 
-* <font color="orange">**mercoledì 15/1/2025 - 19.30** </font>- Montura Store ISERA - Presentazione del corso. Materiali e attrezzatura
-* <font color="orange">**mercoledì 22/1/2025 - 20.30** - SAT Rovereto </font>- Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
-* <font color="blue">**domenica 26/1/2025** </font>- Tecniche di movimentazione in salita e discesa. Esecuzione della traccia in salita e discesa
-* <font color="orange">**mercoledì 29 /1/2025 - 20.30** </font> ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
+* <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- Montura Store ISERA - Presentazione del corso. Materiali e attrezzatura
+* <font color="orange">**mercoledì 22 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
+* <font color="blue">**domenica 26 gennaio**</font> - Tecniche di movimentazione in salita e discesa. Esecuzione della traccia in salita e discesa
+* <font color="orange">**mercoledì 29 gennaio, 20.30** </font> ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
   Introduzione agli strumenti di autosoccorso e gestione del
   recupero di un travolto
-* <font color="blue">**domenica 2/2/2025** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
-* <font color="orange">**mercoledì 5/2/2025 - 20.30** </font> - SAT Rovereto - Nivologia. Lettura del bollettino valanghe
-* <font color="blue">**sabato e domenica 9-10/2/2025** </font> - Pernottamento presso XXXXX - Riconoscimento dei siti valanghivi. Autosoccorso con più travolti: tecniche di recupero e gestione della ricerca. Richiesta
+* <font color="blue">**domenica 2 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
+* <font color="orange">**mercoledì 5 febbraio, 20.30** </font> - SAT Rovereto - Nivologia. Lettura del bollettino valanghe
+* <font color="blue">**sabato e domenica 9-10 febbraio** </font> - Pernottamento presso XXXXX - Riconoscimento dei siti valanghivi. Autosoccorso con più travolti: tecniche di recupero e gestione della ricerca. Richiesta
   di soccorso.
-* <font color="orange">**mercoledì 19 /2 - 20.30** </font> - SAT Rovereto - Cartografia e orientamento
-* <font color="blue">**domenica 23 /2** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
-* <font color="orange">**mercoledì 5 /3 - 20.30** </font> - SAT Rovereto - Meteorologia
-* <font color="blue">**sabato e domenica 8-9 /3, Pernottamento presso Schutzhütte SESVENNA \[https://www.sesvenna.net/]** </font> - Manutenzione dei materiali (sci, pelli di foca)
+* <font color="orange">**mercoledì 19 febbraio, 20.30** </font> - SAT Rovereto - Cartografia e orientamento
+* <font color="blue">**domenica 23 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
+* <font color="orange">**mercoledì 5 marzo 2025, 20.30** </font> - SAT Rovereto - Meteorologia
+* <font color="blue">**sabato e domenica 8-9 marzo** </font> Pernottamento presso [Schutzhütte SESVENNA] (https://www.sesvenna.net/)  - Manutenzione dei materiali (sci, pelli di foca)
 * Venerdì 14/3 - Cena di fine corso
