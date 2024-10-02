@@ -13,7 +13,7 @@ Direttore: Christian Casarotto – 351 8595312
 
 Vicedirettore: Raffaele Spagnolli – 338 3837533
 
-Apertura iscrizioni: dal xx/xx/2024 compilando il seguente [**modulo on line**](url)
+Apertura iscrizioni: dal xx/xx/2024 compilando il seguente [modulo on line](url)
 
 Quota d'iscrizione: 300,00 € (250,00 € se minore di 21 anni ).
 
@@ -36,11 +36,10 @@ Rimangono escluse le spese di vitto, alloggio (pernottamenti del 9-10 febbraio e
 
 Programma del corso:
 
-<font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto Corso Rosmini, 53 Rovereto *[qui sarebbe bello mettere la cartina]
-
+<font color="orange">**Lezioni teoriche**</font> ore 20.30 presso la sede S.A.T. di Rovereto Corso Rosmini, 53 Rovereto *[qui sarebbe bello mettere la cartina]  
 <font color="blue">**Lezioni pratiche e uscite sul terreno** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
-* <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- Montura Store ISERA - Presentazione del corso. Materiali e attrezzatura
+* <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- Montura Store ISERA - Presentazione del corso. Materiali e attrezzatura  
 * <font color="orange">**mercoledì 22 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
 * <font color="blue">**domenica 26 gennaio**</font> - Tecniche di movimentazione in salita e discesa. Esecuzione della traccia in salita e discesa
 * <font color="orange">**mercoledì 29 gennaio, 20.30** </font> ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
