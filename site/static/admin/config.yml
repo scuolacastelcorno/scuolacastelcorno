@@ -141,3 +141,25 @@ collections: # A list of collections the CMS should be able to edit
                 name: images
                 widget: list
                 field: { label: Image, name: image, widget: image }
+
+  - name: "organico"
+    label: "Organico"
+    files:
+      - file: "site/data/organico.json"
+        label: Organico
+        name: organico
+        fields:
+          - { label: Immagine, name: image, widget: image }
+          - label: "Direttivo"
+            name: direttivo
+            widget: list
+            fields:
+              - { label: Nome, name: nome, widget: string }
+              - { label: Ruolo, name: ruolo, widget: string }
+              - { label: Titoli, name: titoli, widget: list }
+          - label: "Istruttori"
+            name: istruttori
+            widget: list
+            fields:
+              - { label: Nome, name: nome, widget: string }
+              - { label: Titoli, name: titoli, widget: list }
