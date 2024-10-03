@@ -34,8 +34,9 @@ Nel 1992, conforme alle direttive della Comissione Nazionale, vengono riunificat
 
 Dal 1996 si sono susseguiti alla direzione della Scuola, prima Renato Lorenzi poi Mauro Bolognani quindi Giuliano Modena, mentre i corsi sono stati diretti dai migliori istruttori che si sono andati formando nella Scuola stessa. Grazie al contributo dei direttori passati e dell'organico sensibili a fondere innovazione e tradizioni oggi (ottobre 2013) Mauro Manfrini diventa direttore continuando a credere nell'idea di una scuola dinamica, competente e rivolta ad offire ad allievi ed istruttori la passione per i monti.
 
-![Organico](img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg "Organico")
+<!-- ![Organico](img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg "Organico") -->
 
+<!-- 
 **Organico**
 
 |                                         |                              |
@@ -69,7 +70,7 @@ Dal 1996 si sono susseguiti alla direzione della Scuola, prima Renato Lorenzi po
 | Lorenzi Renato INSA, INA         | Spagnolli Raffaele ISA, AT    |
 | Luzzi Veronica AIA               | Speccher Alessandro AIS       |
 | Tranquillini Mario INAEMER - ISA | Vigagni Piarosa ISA           |
-| Waldner ​Maddalena AIS           |                               |
+| Waldner ​Maddalena AIS           |                               | -->
 
 <!-- 
 \* Arnone Andrea AIA

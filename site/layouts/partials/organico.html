@@ -1,0 +1,67 @@
+<div class="pv4">
+
+  <div class="flex-l mhn1-l ph3 center mw7">  
+    <div class="w-100-l ph2-l mb3 cover">
+      <img src="{{ .image }}" alt="" class="mb3 cover">
+    </div>
+  </div>
+
+  <div class="ph3 center mw7">  
+    
+    <h2 class="f2 b lh-title mb2">Organico</h2>
+    
+    <div class="mb0 pv4">
+
+
+      
+      <div class="f6 lh-solid">
+
+        <!-- Direzione -->
+        {{ $isFirst := true }}
+        {{ range .direttivo }}
+          <div class="pv1">
+            <div class="flex">
+              <!-- {{ if $isFirst }}
+                {{ $isFirst = false }}
+                bg-grey-2
+              {{ else }}
+                bg-grey-1
+              {{ end }} -->
+              <div class="w-50 w-third-m"><em>{{ .ruolo }}</em></div>
+              <div class="w-50 w-third-m">
+                <strong>{{ .nome }}</strong>
+                <span style="font-size: .45rem">
+                  <!-- {{ delimit .titoli ", " }} -->
+                  {{ range .titoli }}
+                    <span class="bg-grey-1 ph1">{{ . }}</span>
+                  {{ end }}
+                </span>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+
+        <!-- Istruttori -->
+        <div class="flex flex-wrap pv2 mv1 bt">
+          {{ range .istruttori }}
+            <div class="mv1 lh-solid w-50 w-third-m">
+              <span class="f6">{{ .nome }}</span>
+              <span style="font-size: .45rem">
+                <!-- {{ delimit .titoli ", " }} -->
+                {{ range .titoli }}
+                  <span class="bg-grey-1 ph1">{{ . }}</span>
+                {{ end }}
+              </span>
+            </div>
+          {{ end }}
+        </div>
+          
+      </div>
+
+
+
+    </div>
+
+  </div>
+
+</div>

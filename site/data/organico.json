@@ -1,0 +1,191 @@
+{
+  "image": "img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg",
+  "direttivo": [
+    {
+      "ruolo": "Direttore scuola",
+      "nome": "Matteo Perottoni",
+      "titoli": ["INA"]
+    },
+    {
+      "ruolo": "Vicedirettore alpinismo",
+      "nome": "Natali Mauro",
+      "titoli": ["INA"]
+    },
+    {
+      "ruolo": "Vicedirettore scialpinismo",
+      "nome": "Micheli Alberto",
+      "titoli": ["ISA", "IA"]
+    },
+    {
+      "ruolo": "Vicedirettore arrampicata libera",
+      "nome": "Bonapace Giulio",
+      "titoli": ["IAL", "IAEE", "ISA"]
+    }
+  ],
+  "istruttori": [
+    {
+        "nome": "Arnone Andrea",
+        "titoli": ["AIA"]
+    },
+    {
+        "nome": "Battistotti Riccardo",
+        "titoli": ["IAL", "IAEE"]
+    },
+    {
+        "nome": "Bolner Matteo",
+        "titoli": ["AIA"]
+    },
+    {
+        "nome": "Bolognani Mauro",
+        "titoli": ["INA"]
+    },
+    {
+        "nome": "Caden Paolo",
+        "titoli": ["INSA"]
+    },
+    {
+        "nome": "Caden Marco",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Candioli Thomas",
+        "titoli": ["IAL"]
+    },
+    {
+        "nome": "Cappelletti Alessandro",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Caracristi Marina",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Casarotto Cristian",
+        "titoli": ["IS"]
+    },
+    {
+        "nome": "Cavalieri Marco",
+        "titoli": ["IAEMER"]
+    },
+    {
+        "nome": "Comencini Pierluigi",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Dionisi Marta",
+        "titoli": ["IAL", "IAEE"]
+    },
+    {
+        "nome": "Fait Roberto",
+        "titoli": ["IS"]
+    },
+    {
+        "nome": "Farinati Christian",
+        "titoli": ["IS"]
+    },
+    {
+        "nome": "Filippi Doriano",
+        "titoli": ["IA"]
+    },
+    {
+        "nome": "Gilmozzi Andrea",
+        "titoli": ["INSA", "IA"]
+    },
+    {
+        "nome": "Lorenzi Renato",
+        "titoli": ["INSA", "INA"]
+    },
+    {
+        "nome": "Luzzi Veronica",
+        "titoli": ["AIA"]
+    },
+    {
+        "nome": "Manfrini Mauro",
+        "titoli": ["IA", "INSA"]
+    },
+    {
+        "nome": "Mambrini Devid",
+        "titoli": ["GA", "IA"]
+    },
+    {
+        "nome": "Martini Giancarlo",
+        "titoli": ["IA", "ISA"]
+    },
+    {
+        "nome": "Mazzola Mauro",
+        "titoli": ["ISA", "ESVI"]
+    },
+    {
+        "nome": "Michelini Alan",
+        "titoli": ["GA"]
+    },
+    {
+        "nome": "Modena Christian",
+        "titoli": ["IAL"]
+    },
+    {
+        "nome": "Modena Giuliano",
+        "titoli": ["INA"]
+    },
+    {
+        "nome": "Moretto Davide",
+        "titoli": ["IAL", "IA"]
+    },
+    {
+        "nome": "Perenzoni Gabriel",
+        "titoli": ["IA", "ISA", "GA"]
+    },
+    {
+        "nome": "Perghem Pio",
+        "titoli": ["IS"]
+    },
+    {
+        "nome": "Perottoni Maurizio",
+        "titoli": ["IA"]
+    },
+    {
+        "nome": "Piazza Walter",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Poli Fabio",
+        "titoli": ["IA"]
+    },
+    {
+        "nome": "Rigo Fabio",
+        "titoli": ["IA"]
+    },
+    {
+        "nome": "Robol Marco",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Silvestri Gianni",
+        "titoli": ["IAL"]
+    },
+    {
+        "nome": "Simoncelli Leonardo",
+        "titoli": ["IAL"]
+    },
+    {
+        "nome": "Spagnolli Raffaele",
+        "titoli": ["ISA", "AT"]
+    },
+    {
+        "nome": "Speccher Alessandro",
+        "titoli": ["AIS"]
+    },
+    {
+        "nome": "Tranquillini Mario",
+        "titoli": ["INAEMER", "ISA"]
+    },
+    {
+        "nome": "Vigagni Piarosa",
+        "titoli": ["ISA"]
+    },
+    {
+        "nome": "Waldner Maddalena",
+        "titoli": ["AIS"]
+    }
+  ]
+}
