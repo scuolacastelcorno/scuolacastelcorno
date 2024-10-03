@@ -19,20 +19,20 @@ SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima vol
 
 Numero massimo partecipanti: **24**
 
-**GIORNO xxx ORA yyy**: Versamento quota iscrizione presso la sede [SAT Rovereto] (https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) C.so Rosmini n.53 con presentazione di:
+**GIORNO xxx ORA yyy**: Versamento quota iscrizione presso la sede [SAT Rovereto](https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) C.so Rosmini n.53 con presentazione di:
+
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
-* attestazione iscrizione CAI/SAT per l'anno in corso*. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
+* attestazione iscrizione CAI/SAT per l'anno in corso. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
 La quota d'iscrizione è comprensiva di uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
-
 - - -
 
 **Programma del corso:**
 
-<font color="orange">**Lezioni teoriche:**</font> ore 20.30 presso la sede [SAT Rovereto] (https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) Corso Rosmini n.53  
+<font color="orange">**Lezioni teoriche:**</font> ore 20.30 presso la sede [SAT Rovereto](https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) Corso Rosmini n.53\
 <font color="blue">**Lezioni pratiche e uscite sul terreno:** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
 
 * <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- [Montura Store ISERA](https://maps.app.goo.gl/giW1ZCt2mnnsZFE36) - Presentazione del corso. Materiali e attrezzatura  
@@ -48,5 +48,5 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 
 * <font color="orange">**mercoledì 19 febbraio, 20.30** </font> - SAT Rovereto - Cartografia e orientamento
 * <font color="blue">**domenica 23 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
 * <font color="orange">**mercoledì 5 marzo 2025, 20.30** </font> - SAT Rovereto - Meteorologia
-* <font color="blue">**sabato e domenica 8-9 marzo** </font> Pernottamento presso [Schutzhütte SESVENNA] (https://www.sesvenna.net/)  - Manutenzione dei materiali (sci, pelli di foca)
+* <font color="blue">**sabato e domenica 8-9 marzo** </font> Pernottamento presso [Schutzhütte SESVENNA](https://www.sesvenna.net/)  - Manutenzione dei materiali (sci, pelli di foca)
 * Venerdì 14/3 - Cena di fine corso
