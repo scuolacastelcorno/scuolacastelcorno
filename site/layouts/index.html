@@ -1,27 +1,11 @@
 {{ define "main" }}
 
-<!-- Work in progress -->
-<div class="bg-grey-2 pv3 mv3 absolute w-100" style="top: 14rem;">
-    <div class="flex-l mhn1-l ph3 center mw7" style="display: flex; color: red">
-        3 ottobre 2024 - Sito in fase di rinnovo. <br/>
-        Nelle prossime settimane verranno pubblicate tutte le informazioni sui corsi in programma per il 2025!
-    </div>
-</div>
-
 {{ partial "jumbotron" (dict "logo" .Params.logo "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <!-- Logo e intro -->
 <div class="bg-grey-1 pv4">
     <div class="flex-l mhn1-l ph3 center mw7" style="display: flex">
         {{ .Content }}
-    </div>
-</div>
-
-<!-- Work in progress -->
-<div class="bg-grey-2 pv4 mv3">
-    <div class="flex-l mhn1-l ph3 center mw7" style="display: flex; color: red">
-        3 ottobre 2024 - Sito in fase di rinnovo. <br/>
-        Nelle prossime settimane verranno pubblicate tutte le informazioni sui corsi in programma per il 2025!
     </div>
 </div>
 
