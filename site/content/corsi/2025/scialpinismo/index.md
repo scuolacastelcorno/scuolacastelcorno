@@ -30,7 +30,7 @@ La quota d'iscrizione è comprensiva di:
 * manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
 * attestato di frequenza.
 
-Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo). La Scuola Castel Corno non fornisce il noleggio dell'attrezzatura Sci Alpinistica (sci, scarponi, pelli di foca, rampanti).
+Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 8-9 febbraio e 8-9 marzo). La Scuola Castel Corno non fornisce il noleggio dell'attrezzatura Sci Alpinistica (sci, scarponi, pelli di foca, rampanti).
 
 - - -
 
@@ -46,7 +46,7 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 
   Introduzione agli strumenti di autosoccorso e gestione del recupero di un travolto
 * <font color="blue">**domenica 2 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
 * <font color="orange">**mercoledì 5 febbraio, 20.30** </font> - Nivologia. Lettura del bollettino valanghe
-* <font color="blue">**sabato e domenica 9-10 febbraio** </font> - Pernottamento da definire - Riconoscimento dei siti valanghivi. Autosoccorso con più travolti: tecniche di recupero e gestione della ricerca. Richiesta di soccorso
+* <font color="blue">**sabato e domenica 8-9 febbraio** </font> - Pernottamento da definire - Riconoscimento dei siti valanghivi. Autosoccorso con più travolti: tecniche di recupero e gestione della ricerca. Richiesta di soccorso
 * <font color="orange">**mercoledì 19 febbraio, 20.30** </font> - Cartografia e orientamento
 * <font color="blue">**domenica 23 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
 * <font color="orange">**mercoledì 5 marzo 2025, 20.30** </font> - Meteorologia
