@@ -15,7 +15,7 @@ Quota iscrizione: 300,00 € (250,00 € se minore di 21 anni )
 
 - - -
 
-SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con **splitboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche e uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. 
+SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con **tavola splitboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche e uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. 
 
 Numero massimo partecipanti: **24**
 
