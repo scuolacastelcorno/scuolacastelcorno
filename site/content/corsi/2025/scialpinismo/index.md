@@ -21,7 +21,7 @@ Numero massimo partecipanti: **24**
 
 **8 gennaio 2025 dalle 18.30 alle 19.30**: Versamento quota iscrizione presso la sede [SAT Rovereto](https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) C.so Rosmini n.53 con presentazione di:
 
-* certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
+* certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato dopo il 9 marzo 2024;
 * attestazione iscrizione CAI/SAT per l'anno in corso. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
 La quota d'iscrizione è comprensiva di:
