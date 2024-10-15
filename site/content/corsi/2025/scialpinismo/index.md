@@ -15,7 +15,7 @@ Quota iscrizione: 300,00 € (250,00 € se minore di 21 anni )
 
 - - -
 
-SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con tavola da **snowboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche e uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. Richiesta la normale dotazione Sci Alpinistica (sci, scarponi, pelli di foca, rampant e materiale di autosoccorso)
+SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con tavola da **snowboard**. Il corso prevede l’insegnamento, attraverso **lezioni teoriche e uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**. Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. 
 
 Numero massimo partecipanti: **24**
 
@@ -30,7 +30,7 @@ La quota d'iscrizione è comprensiva di:
 * manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
 * attestato di frequenza.
 
-Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
+Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo). La Scuola Castel Corno non fornisce il noleggio dell'attrezzatura Sci Alpinistica (sci, scarponi, pelli di foca, rampant).
 
 - - -
 
