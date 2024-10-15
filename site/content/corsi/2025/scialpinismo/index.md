@@ -24,13 +24,11 @@ Numero massimo partecipanti: **24**
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
 * attestazione iscrizione CAI/SAT per l'anno in corso. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
-La quota d'iscrizione è comprensiva di
+La quota d'iscrizione è comprensiva di:
 
-•	uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
-
-•	Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
-
-•	attestato di frequenza.
+- Uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
+- Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
+- Attestato di frequenza.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
