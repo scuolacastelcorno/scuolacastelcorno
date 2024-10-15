@@ -5,7 +5,7 @@ start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
 image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
 ---
-Direttore: Christian Casarotto – 351 8595312 pipppooooooo
+Direttore: Christian Casarotto – 351 8595312
 
 Vicedirettore: Raffaele Spagnolli – 338 3837533
 
