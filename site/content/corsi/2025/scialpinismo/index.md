@@ -49,6 +49,6 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 8-9 f
 * <font color="blue">**sabato e domenica 8-9 febbraio** </font> - Pernottamento da definire - Riconoscimento dei siti valanghivi. Autosoccorso con più travolti: tecniche di recupero e gestione della ricerca. Richiesta di soccorso
 * <font color="orange">**mercoledì 19 febbraio, 20.30** </font> - Cartografia e orientamento
 * <font color="blue">**domenica 23 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
-* <font color="orange">**mercoledì 5 marzo 2025, 20.30** </font> - Meteorologia
+* <font color="orange">**mercoledì 5 marzo, 20.30** </font> - Meteorologia
 * <font color="blue">**sabato e domenica 8-9 marzo** </font> - Pernottamento presso [Schutzhütte SESVENNA](https://www.sesvenna.net/)  - Manutenzione dei materiali (sci, pelli di foca)
 * Venerdì 14 marzo - Cena di fine corso
