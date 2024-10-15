@@ -3,7 +3,7 @@ title: 43° CORSO DI SCIALPINISMO BASE - SA1  2025
 date: 2024-09-28T18:02:36.689Z
 start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
-image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
+image: /img/img_20180114_131322031.jpg
 ---
 Direttore: Christian Casarotto – 351 8595312
 
