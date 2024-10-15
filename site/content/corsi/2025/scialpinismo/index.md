@@ -30,7 +30,7 @@ La quota d'iscrizione è comprensiva di:
 * manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
 * attestato di frequenza.
 
-Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo). La Scuola Castel Corno non fornisce il noleggio dell'attrezzatura Sci Alpinistica (sci, scarponi, pelli di foca, rampant).
+Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo). La Scuola Castel Corno non fornisce il noleggio dell'attrezzatura Sci Alpinistica (sci, scarponi, pelli di foca, rampanti).
 
 - - -
 
