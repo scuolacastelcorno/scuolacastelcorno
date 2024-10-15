@@ -8,7 +8,7 @@
         
         <div class="flex justify-between grey-3">
             {{ if and (.Params.start) (.Params.end) }}
-                <p>{{ (time.AsTime .Params.start).Format "Jan 2006" }} - {{ (time.AsTime .Params.end).Format "Jan 2006" }}</p>
+                <p>{{ (time.AsTime .Params.start).Format "January 2006" }} - {{ (time.AsTime .Params.end).Format "January 2006" }}</p>
             {{ end }}
         </div>
         
