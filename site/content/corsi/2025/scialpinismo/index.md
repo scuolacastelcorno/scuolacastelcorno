@@ -3,7 +3,7 @@ title: 43° CORSO DI SCIALPINISMO BASE - SA1  2025
 date: 2024-09-28T18:02:36.689Z
 start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
-image: /img/img_20180114_131322031.jpg
+image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
 ---
 Direttore: Christian Casarotto – 351 8595312
 
@@ -24,7 +24,13 @@ Numero massimo partecipanti: **24**
 * certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica, compilato non oltre il 9 marzo 2024;
 * attestazione iscrizione CAI/SAT per l'anno in corso. Per i non soci CAI/SAT, il giorno stesso sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto.
 
-La quota d'iscrizione è comprensiva di uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso.
+La quota d'iscrizione è comprensiva di
+
+•	uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
+
+•	Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
+
+•	attestato di frequenza.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
