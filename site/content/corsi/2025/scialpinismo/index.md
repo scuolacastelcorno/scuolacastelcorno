@@ -41,7 +41,7 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 
 
 * <font color="orange">**mercoledì 15 gennaio 2025, 19.30** </font>- [Montura Store ISERA](https://maps.app.goo.gl/giW1ZCt2mnnsZFE36) - Presentazione del corso. Materiali e attrezzatura  
 * <font color="orange">**mercoledì 22 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
-* <font color="blue">**domenica 26 gennaio**</font> - Tecniche di movimentazione in salita e discesa. Esecuzione della traccia in salita e discesa
+* <font color="blue">**domenica 26 gennaio**</font> - Tecniche di movimentazione ed esecuzione della traccia in salita e discesa
 * <font color="orange">**mercoledì 29 gennaio, 20.30** </font> - ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
   Introduzione agli strumenti di autosoccorso e gestione del recupero di un travolto
 * <font color="blue">**domenica 2 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
