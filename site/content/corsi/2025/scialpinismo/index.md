@@ -26,9 +26,9 @@ Numero massimo partecipanti: **24**
 
 La quota d'iscrizione è comprensiva di:
 
-- Uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
-- Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
-- Attestato di frequenza.
+* Uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
+* Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
+* Attestato di frequenza.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
@@ -51,4 +51,4 @@ Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 
 * <font color="blue">**domenica 23 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
 * <font color="orange">**mercoledì 5 marzo 2025, 20.30** </font> - Meteorologia
 * <font color="blue">**sabato e domenica 8-9 marzo** </font> Pernottamento presso [Schutzhütte SESVENNA](https://www.sesvenna.net/)  - Manutenzione dei materiali (sci, pelli di foca)
-* Venerdì 14/3 - Cena di fine corso
+* Venerdì 14 marzo - Cena di fine corso
