@@ -26,9 +26,9 @@ Numero massimo partecipanti: **24**
 
 La quota d'iscrizione è comprensiva di:
 
-* Uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
-* Manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
-* Attestato di frequenza.
+* uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
+* manuale del Club Alpino Italiano "Sci Alpinismo" della Commissione Nazionale Scuole di Alpinismo e Sci Alpinismo;
+* attestato di frequenza.
 
 Sono escluse le spese di trasferimento, vitto, alloggio (pernottamenti del 9-10 febbraio e 8-9 marzo).
 
