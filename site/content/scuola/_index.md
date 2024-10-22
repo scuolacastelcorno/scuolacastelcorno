@@ -1,116 +1,21 @@
 ---
-title: "La Scuola"
+title: La Scuola
 image: img/2014_0621-22-cevedale-sdim000-e8fa829f9c061c02.jpg
 ---
-**La storia: dalle origini al presente​**
+# **Brevi cenni di storia della Scuola di alpinismo e scialpinismo Castel Corno**
 
-Nei primi anni sessanta nasce all’interno della sezione Sat di Rovereto,
-allora diretta dal neo presidente Bruno Binil’esigenza di insegnare ai
-giovani alcune nozioni base per affrontare in sicurezza la montagna
-durante le gite domenicali. Dopo alcuni anni, grazie all’interessamento di
-Marco Cavalieri e di Giuliano Matassoni, entrambi membri del Gruppo Roccia
-e Alta Montagna "Ezio Polo" nasce il primo corso roccia presso la palestra
-di Castel Corno diretto dal forte alpinista Bepi De Francesch.
+Nel 2015 la “Scuola” ha festeggiato i primi suoi cinquant’anni seconda scuola in Trentino per longevità alla Scuola Graffer di Trento.
+Nata in seno alla SAT di Rovereto dall’idea  di un giovane Marco Cavallieri coadiuvato da Giuliano Mattassoni entrambi membri del Gruppo Roccia e Alta Montagna Ezio Polo riunisce nel primo corso svoltosi presso la palestra di roccia di Castel Corno alcuni esponenti dell’alpinismo roveretano sotto la guida di Bepi De Francesch.
+I corsi si susseguono negli anni con il riconoscimento  ufficiale del CAI e con l’aiuto degli appassionati arrampicatori locali viene attrezzata la palestra di Val Scodella.
+In quegli anni  i corsi vengono diretti dagli esponenti di spicco dell’alpinismo locale tra i quali Milo Navasa di Verona,  Marino Stenico e Mariano Frizzera.
+E’ grazie all’interessamento di Sergio Martini che all’inizio degli anni 80 la “Scuola” inserisce nei propri programmi i corsi di scialpinismo con l’aiuto degli “Accademici” Graziano Maffei detto Feo,  Fabio Leoni e il professore Giancarlo Dorigotti.
+In quei formidabili anni di esplosione dello sci fuori pista nasce la denominazione “Scuola di alpinismo e scialpinismo Castel Corno” rettificata nel 1992 dall’aggiunta “...Rovereto e Mori”
+Da allora la “Scuola” prosegue i propri programmi in maniera strutturata tra sci e alpinismo tradizionale introducendo le nuove specialità nate successivamente  arrampicata libera e ghiaccio verticale su cascata.
 
-I corsi si susseguono negli anni con il riconoscimento della Commissione Nazionale di Alpinismo e grazie alla collaborazione del gruppo Roccia e alta Montagna "Ezio Polo" vengono attrezzate le palestra di Castel Corno e di Val Scodella.
+Nell’ultima decade del secolo scorso l’organico della scuola si arricchisce di nuovi istruttori e guide alpine tra le quali la prima istruttrice femminile di scialpinismo Marina Caracristi seguita da Piarosa Vigagni mentre sucessivamente nell’arrampicata libera consegue il titolo di istruttrice Marta Dionisi.
+Recentemente con la costruzione del nuovo consiglio direttivo e la nomina del nuovo  direttore Matteo Perottoni è stato predisposto un nuovo programma per garantire il ricambio degli istruttori e promuovere l’attività alpinistica nelle sue varie specialità per le future generazioni.
 
-In quegli anni i corsi vengono diretti da personaggi famosi dell’alpinismo, quali Milo Navasa di Verona e Marino Stenico di Trento.
+Il patrimonio tecnico e organizzativo che in più di cinquant’anni di vita della “Scuola” è stato trasmesso alle persone che a vario titolo hanno frequentato i corsi resta una pagina importante per il territorio “Lagarino” fatto di passione disponibilità competenza e amicizia avvicinando alle “Terre alte” diverse generazioni di persone.
+Apprendere le varie nozioni tecniche che la “scuola” trasmette in ogni corso da la possibilità agli allievi di conoscere amare proteggere un territorio fragile come la montagna e le sue vette frequentandola con prudenza.
 
-Nel frattempo la sezione invia il giovane Sergio Martini a frequentare il corso per Istruttori Nazionali di Alpinismo e successivamente affida a lui la direzione dei corsi iniziando così la gestione autonoma degli stessi.
-
-Successivamente altri soci cresceranno frequentando e superando sempre brillantemente i corsi di formazione a livello regionale o nazionale, incrementando il gruppo di Istruttori disponibili in Sezione.
-
-Ѐ grazie all’interessamento di Sergio Martini, che si avvale inizialmente della collaborazione di Graziano Maffei, Paolo Leoni e Giancarlo Dorigotti che prendono avvio con entusiasmo i primi corsi di scialpinismo, avvicinando alla pratica della montagna invernale molti alpinisti della Vallagarina.
-
-Nel 1978 Mario Tranquillini, superati gli esami di INA, subentra quale direttore dei corsi proseguendo una proficua attività nel solco già tracciato.
-
-Nel 1981 viene istituita la Scuola di Alpinismo "Castel Corno" delle sezioni SAT di Rovereto e Mori sotto la direzione di Giuliano Matassoni che l’anno dopo diventa INA insieme a Sandro Slaghenaufi.
-
-L’attività degli anni successivi spazia dai corsi di Roccia ai corsi di Ghiaccio e Arrampicata Libera sotto la direzione dei vari Istruttori Nazionali: Giuliano Stenghel, Oscar Piazza, Renato Lorenzi, Stefano Trainotti.
-
-Vengono inoltre istituiti in maniera continuativa anche i corsi di Scialpinismo con la direzione affidata alla G.A. Renzo Vettori.
-
-Nel 1992, conforme alle direttive della Comissione Nazionale, vengono riunificati tutti i corsi e la Scuola assume la nuova denominazione di “Scuola di Alpinismo e Scialpinismo Castel Corno di Rovereto e Mori”.
-
-Dal 1996 si sono susseguiti alla direzione della Scuola, prima Renato Lorenzi poi Mauro Bolognani quindi Giuliano Modena, mentre i corsi sono stati diretti dai migliori istruttori che si sono andati formando nella Scuola stessa. Grazie al contributo dei direttori passati e dell'organico sensibili a fondere innovazione e tradizioni oggi (ottobre 2013) Mauro Manfrini diventa direttore continuando a credere nell'idea di una scuola dinamica, competente e rivolta ad offire ad allievi ed istruttori la passione per i monti.
-
-<!-- ![Organico](img/2015-1204-serata-50-anni-castelcorno-dsc-8365-2star_1.jpeg "Organico") -->
-
-<!-- 
-**Organico**
-
-|                                         |                              |
-| --------------------------------------- | ---------------------------- |
-| **Direttore scuola**                    | Perottoni Matteo INA         |
-| ***Vicedirettore alpinismo***           | Natali Mauro INA             |
-| ***Vicedirettore scialpinismo***        | Micheli Alberto ISA, IA      |
-| ***​Vicedirettore arrampicata libera*** | Bonapace Giulio IAL IAEE ISA |
-
-- - -
-
-|                                  |                               |
-| -------------------------------- | ----------------------------- |
-| Arnone Andrea AIA                | Manfrini Mauro IA, INSA       |
-| Battistotti Riccardo IAL, IAEE   | Mambrini Devid GA, IA         |
-| Bolner Matteo AIA                | Martini Giancarlo IA, ISA     |
-| Bolognani Mauro INA              | Mazzola Mauro ISA, ESVI       |
-| Caden Paolo INSA                 | Michelini Alan GA             |
-| Caden Marco ISA                  | Modena Christian IAL          |
-| Candioli Thomas IAL              | Modena Giuliano INA           |
-| Cappelletti Alessandro ISA       | Moretto Davide IAL, IA        |
-| Caracristi Marina ISA            | Perenzoni Gabriel IA, ISA, GA |
-| Casarotto Cristian IS            | Perghem Pio IS                |
-| Cavalieri Marco IAEMER           | Perottoni Maurizio IA         |
-| Comencini Pierluigi ISA          | Piazza Walter ISA             |
-| Dionisi Marta IAL, IAEE​​        | Poli Fabio IA                 |
-| ​Fait Roberto IS                 | Rigo Fabio IA                 |
-| ​​Farinati Christian IS          | Robol Marco ISA               |
-| Filippi Doriano IA               | Silvestri Gianni IAL          |
-| Gilmozzi Andrea INSA, IA         | Simoncelli Leonardo IAL       |
-| Lorenzi Renato INSA, INA         | Spagnolli Raffaele ISA, AT    |
-| Luzzi Veronica AIA               | Speccher Alessandro AIS       |
-| Tranquillini Mario INAEMER - ISA | Vigagni Piarosa ISA           |
-| Waldner ​Maddalena AIS           |                               | -->
-
-<!-- 
-\* Arnone Andrea AIA
-\* Battistotti Riccardo IAL, IAEE
-\* Bolner Matteo AIA
-\* Bolognani Mauro INA
-\* Caden Paolo INSA
-\* Caden Marco ISA
-\* Candioli Thomas IAL
-\* Cappelletti Alessandro ISA
-\* Caracristi Marina ISA
-\* Casarotto Cristian IS
-\* Cavalieri Marco IAEMER
-\* Comencini Pierluigi ISA
-\* Dionisi Marta IAL, IAEE​​
-\* ​Fait Roberto IS
-\* ​​Farinati Christian IS
-\* Filippi Doriano IA
-\* Gilmozzi Andrea INSA, IA
-\* Lorenzi Renato INSA, INA
-\* Luzzi Veronica AIA
-\* Manfrini Mauro IA, INSA
-\* Mambrini Devid GA, IA
-\* Martini Giancarlo IA, ISA
-\* Mazzola Mauro ISA, ESVI
-\* Michelini Alan GA
-\* Modena Christian IAL
-\* Modena Giuliano INA
-\* Moretto Davide IAL, IA
-\* Perenzoni Gabriel IA, ISA, GA
-\* Perghem Pio IS
-\* Perottoni Maurizio IA
-\* Piazza Walter ISA
-\* Poli Fabio IA
-\* Rigo Fabio IA
-\* Robol Marco ISA
-\* Silvestri Gianni IAL
-\* Simoncelli Leonardo IAL
-\* Spagnolli Raffaele ISA, AT
-\* Speccher Alessandro AIS
-\* Tranquillini Mario INAEMER - ISA
-\* Vigagni Piarosa ISA
-* Waldner ​Maddalena AIS -->
+Vi ricordiamo sempre Graziano, Paolo, Guido, Giuliano, Oskar, Dario…
