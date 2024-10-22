@@ -1,10 +1,10 @@
 .mobile-menu-container {
     cursor: pointer;
-    display: block;
-    padding: var(--spacing-medium) var(--spacing-medium) 0 0;
-    position: absolute;
-    right: 0;
-    top: 0;
+    // display: block;
+    padding: var(--spacing-small) var(--spacing-medium) 0 var(--spacing-medium);
+    // position: absolute;
+    // right: 0;
+    // top: 0;
     z-index: 2;
 }
 
@@ -83,6 +83,12 @@
 .nav-transparent {
     transition: background-color 0.2s ease-out;
     background-color: transparent;
+    padding: var(--spacing-small) 0 var(--spacing-small) 0;
+    position: absolute;
+}
+
+.nav-transparent img {
+    height: 3rem;
 }
 
 .nav-colored {

@@ -2,7 +2,7 @@
 title: La Scuola
 image: img/2014_0621-22-cevedale-sdim000-e8fa829f9c061c02.jpg
 ---
-# **Brevi cenni di storia della Scuola di alpinismo e scialpinismo Castel Corno**
+## **Brevi cenni di storia della Scuola di alpinismo e scialpinismo Castel Corno**
 
 Nel 2015 la “Scuola” ha festeggiato i primi suoi cinquant’anni seconda scuola in Trentino per longevità alla Scuola Graffer di Trento.
 Nata in seno alla SAT di Rovereto dall’idea  di un giovane Marco Cavallieri coadiuvato da Giuliano Mattassoni entrambi membri del Gruppo Roccia e Alta Montagna Ezio Polo riunisce nel primo corso svoltosi presso la palestra di roccia di Castel Corno alcuni esponenti dell’alpinismo roveretano sotto la guida di Bepi De Francesch.
