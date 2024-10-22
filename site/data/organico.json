@@ -5,7 +5,8 @@
       "ruolo": "Direttore scuola",
       "nome": "Matteo Perottoni",
       "titoli": [
-        "INA"
+        "INA",
+        "IAEE"
       ]
     },
     {
@@ -31,13 +32,20 @@
         "IAEE",
         "ISA"
       ]
+    },
+    {
+      "nome": "Giancarlo Martini",
+      "ruolo": "Segretario",
+      "titoli": [
+        "ISA"
+      ]
     }
   ],
   "istruttori": [
     {
       "nome": "Arnone Andrea",
       "titoli": [
-        "AIA"
+        "AIS"
       ]
     },
     {
@@ -50,19 +58,14 @@
     {
       "nome": "Bolner Matteo",
       "titoli": [
-        "AIA"
+        "AIS"
       ]
     },
     {
       "nome": "Bolognani Mauro",
       "titoli": [
-        "INA"
-      ]
-    },
-    {
-      "nome": "Caden Paolo",
-      "titoli": [
-        "INSA"
+        "INA",
+        "IAEE"
       ]
     },
     {
@@ -72,9 +75,16 @@
       ]
     },
     {
+      "nome": "Caden Paolo",
+      "titoli": [
+        "INSA"
+      ]
+    },
+    {
       "nome": "Candioli Thomas",
       "titoli": [
-        "IAL"
+        "IAL",
+        "IAEE"
       ]
     },
     {
@@ -93,12 +103,6 @@
       "nome": "Casarotto Cristian",
       "titoli": [
         "ISA"
-      ]
-    },
-    {
-      "nome": "Cavalieri Marco",
-      "titoli": [
-        "IAEMER"
       ]
     },
     {
@@ -149,14 +153,7 @@
     {
       "nome": "Luzzi Veronica",
       "titoli": [
-        "AIA"
-      ]
-    },
-    {
-      "nome": "Manfrini Mauro",
-      "titoli": [
-        "IA",
-        "INSA"
+        "AIS"
       ]
     },
     {
@@ -167,10 +164,10 @@
       ]
     },
     {
-      "nome": "Martini Giancarlo",
+      "nome": "Manfrini Mauro",
       "titoli": [
         "IA",
-        "ISA"
+        "INSA"
       ]
     },
     {
@@ -183,19 +180,14 @@
     {
       "nome": "Michelini Alan",
       "titoli": [
-        "GA"
+        "GA",
+        "IS"
       ]
     },
     {
       "nome": "Modena Christian",
       "titoli": [
         "IAL"
-      ]
-    },
-    {
-      "nome": "Modena Giuliano",
-      "titoli": [
-        "INA"
       ]
     },
     {
@@ -214,21 +206,9 @@
       ]
     },
     {
-      "nome": "Perghem Pio",
-      "titoli": [
-        "IS"
-      ]
-    },
-    {
       "nome": "Perottoni Maurizio",
       "titoli": [
         "IA"
-      ]
-    },
-    {
-      "nome": "Piazza Walter",
-      "titoli": [
-        "ISA"
       ]
     },
     {
@@ -266,19 +246,6 @@
       "titoli": [
         "ISA",
         "AT"
-      ]
-    },
-    {
-      "nome": "Speccher Alessandro",
-      "titoli": [
-        "AIS"
-      ]
-    },
-    {
-      "nome": "Tranquillini Mario",
-      "titoli": [
-        "INAEMER",
-        "ISA"
       ]
     },
     {
