@@ -5,9 +5,11 @@ start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
 image: /img/img_20180114_131322031.jpg
 ---
-<font color="red">**ATTENZIONE!!! Dispiace comunicare che è stato superato il limite di iscrizione. Puoi sempre compilare il modulo di pre-iscrizione al Corso base di Scialpinismo 2025 ma sarà accettato con RISERVA. L'iscrizione potrà essere confermata solo in caso di cancellazioni. Da ora e fino all'8 gennaio 2025 sarai informato per eventuali quote rese disponibili.**
+<font color="red">**ATTENZIONE!!! Dispiace comunicare che è stato superato il limite di iscrizione. Puoi sempre compilare il modulo di pre-iscrizione al Corso base di Scialpinismo 2025 ma sarà accettato con RISERVA. L'iscrizione potrà essere confermata solo in caso di cancellazioni. Da ora e fino all'8 gennaio 2025 sarai informat* per eventuali quote rese disponibili.**
 </font>
----
+
+- - -
+
 Direttore: Christian Casarotto – 351 8595312
 
 Vicedirettore: Raffaele Spagnolli – 338 3837533
