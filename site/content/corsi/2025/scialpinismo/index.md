@@ -5,7 +5,7 @@ start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
 image: /img/img_20180114_131322031.jpg
 ---
-<font color="red"><strong>**ATTENZIONE!!!</strong> Dispiace comunicare che le iscrizioni al Corso base di Scialpinismo 2025 sono chiuse per superato limite di allievi. Puoi sempre partecipare gratuitamente a tutte le lezioni teoriche del corso e restare aggiornato sulle attività della Scuola Castel Corno consultando il [sito internet](https://www.scuolacastelcorno.org/).**</font>
+<font color="red"><strong>**ATTENZIONE!!!</strong> Dispiace comunicare che le iscrizioni al Corso base di Scialpinismo 2025 sono chiuse per superato limite di allievi. Puoi sempre partecipare gratuitamente a tutte le lezioni teoriche del corso, indicate in questo programma, e restare aggiornato sulle attività della Scuola Castel Corno consultando il [sito internet](https://www.scuolacastelcorno.org/).**</font>
 
 - - -
 
