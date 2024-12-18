@@ -1,5 +1,5 @@
 ---
-title: Arrampicata Libera 2025
+title: 10° Corso di Arrampicata Libera - 2025
 date: 2024-08-23T22:00:00.000Z
 start: 2025-04-18T13:44:47.785Z
 end: 2025-06-18T13:44:55.086Z
