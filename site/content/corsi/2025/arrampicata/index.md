@@ -25,17 +25,8 @@ Per confermare l'iscrizione alla prima serata di teoria è necessario presentare
 - **Quota d’iscrizione: 300€**; fino a 21 anni 250€
 (50€ all’atto dell’iscrizione, il saldo alla prima lezione).
 
-La quota d’iscrizione è comprensiva di:
-
-- Uso del materiale della scuola (corde,
-cordini, moschettoni).
-- Assicurazione contro infortunio (bollino CAI/SAT).
-- Spezzone di cordino per sosta e longe.
-- Attestato di frequenza.
-
-Rimangono escluse le spese per le trasferte, gli
-eventuali impianti di risalita e i pernottamenti nei
-rifugi.
+La quota d’iscrizione è comprensiva di: (i) Uso del materiale della scuola (corde, cordini, moschettoni); (ii) Spezzone di cordino per sosta e longe; (iii) Attestato di frequenza.
+*Rimangono escluse le spese per le trasferte, gli eventuali impianti di risalita e i pernottamenti nei rifugi*.
 
 ---
 
