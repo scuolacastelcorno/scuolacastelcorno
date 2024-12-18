@@ -13,8 +13,18 @@ Vice direttore: **Matteo Bolner** A.I.S.
 
 ---
 
-Quota d’iscrizione: 300€; fino a 21 anni 250€
+### Iscrizione
+
+Compilare il [modulo qui linkato](https://forms.gle/qXE2qkgtimBdv5G6A) per pre-iscriversi al corso. Riceverete una mail di conferma. Al raggiungimento del **numero massimo di 13 partecipanti**, si viene accettati in *RISERVA* e l'iscrizione viene confermata solo in caso di ritirati.
+Per qualsiasi *informazione contattare direttore e vicedirettore*.
+
+Per confermare l'iscrizione alla prima serata di teoria è necessario presentare:
+
+- tesseramento 2025 C.A.I. - S.A.T. specificando in fase di rinnovo l'integrazione assicurativa in attività sezionale.
+- certificato medico per attività sportiva non agonistica
+- **Quota d’iscrizione: 300€**; fino a 21 anni 250€
 (50€ all’atto dell’iscrizione, il saldo alla prima lezione).
+
 La quota d’iscrizione è comprensiva di:
 
 - Uso del materiale della scuola (corde,
@@ -26,13 +36,6 @@ cordini, moschettoni).
 Rimangono escluse le spese per le trasferte, gli
 eventuali impianti di risalita e i pernottamenti nei
 rifugi.
-
----
-
-Iscrizione: solo per soci C.A.I. - S.A.T. provvisti di bollino con integrazione, entro il 16 aprile 2025 presso la sede C.A.I. - S.A.T. di Rovereto il mercoledì dalle ore 18.00 alle 19.00; presso la sede C.A.I. - S.A.T. di Mori il mercoledì e il venerdì dalle ore 20.30 alle 21.30.
-Oppure telefonando direttamente al direttore o al vicedirettore del corso.
-
-Numero partecipanti: max. 13.
 
 ---
 
