@@ -1,6 +1,6 @@
 ---
 title: CORSO ROCCIA AVANZATO AR2 2025
-date: 2024-12-21T23:00:00.000Z
+date: 2024-11-21T23:00:00.000Z
 start: 2025-09-21T22:00:00.000Z
 end: 2025-10-21T22:00:00.000Z
 image: /img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
@@ -46,7 +46,7 @@ oggettivi e soggettivi, lettura di una guida.
 - **Venerdì 10, sabato11, domenica 12 ottobre: 4°, 5°, 6° uscita**,
 weekend alla pietra di Bismantova dove effettueremo salite di più tiri su
 roccia, manovre di corda, ripassi di tutto quello visto nel corso.
-  - Sabato 11 ottobre sera teoria: lezione con ospite.
+*Sabato 11 ottobre sera teoria: lezione con ospite.*
 
 - Giovedì 16 ottobre: cena di fine corso e consegna dei diplomi.
 
