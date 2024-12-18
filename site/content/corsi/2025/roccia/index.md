@@ -16,11 +16,25 @@ su roccia.
 La *selezione dei candidati* avverrà a discrezione del corpo istruttori.
 
 ---
-Quota iscrizione: 300 euro, 270 se under 21
+### Iscrizione
 
-Riservato ai soli soci C.A.I. - S.A.T. provvisti di bollino con ***integrazione*** (Da richiedere in fase di rinnovo, per raddoppiare i massimali della copertura assicurativa infortuni).
+Compilare il [modulo qui linkato](https://forms.gle/q38wMJBtz2HMAe226) per pre-iscriversi al corso. Riceverete una mail di conferma. Al raggiungimento del **numero massimo di 10 partecipanti**, si viene accettati in *RISERVA* e l'iscrizione viene confermata solo in caso di ritirati.
+Per qualsiasi *informazione contattare direttore e vicedirettore*.
+
+Per confermare l'iscrizione è necessario presentare (alla prima serata teorica):
+
+- tesseramento 2025 C.A.I. - S.A.T. specificando in fase di rinnovo l'integrazione assicurativa in attività sezionale (Da richiedere in fase di rinnovo, per raddoppiare i massimali della copertura assicurativa infortuni).
+
+- certificato medico per attività sportiva non agonistica
+
+- **Quota d’iscrizione: 300€**; fino a 21 anni 270€
+
+La quota d’iscrizione è comprensiva di: (i) Uso del materiale della scuola (corde, cordini, moschettoni); (ii) Spezzone di cordino per sosta e longe; (iii) Attestato di frequenza.
+*Rimangono escluse le spese per le trasferte, gli eventuali impianti di risalita e i pernottamenti nei rifugi*.
 
 Numero partecipanti: 10 massimo
+
+---
 
 ## **Programma:**
 
