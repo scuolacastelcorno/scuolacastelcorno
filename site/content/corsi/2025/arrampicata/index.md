@@ -1,6 +1,6 @@
 ---
 title: Arrampicata Libera 2025
-date: 2024-11-23T23:00:00.000Z
+date: 2024-08-23T22:00:00.000Z
 start: 2025-04-18T13:44:47.785Z
 end: 2025-06-18T13:44:55.086Z
 image: /img/2015_0621-andrea-mancin-tognazza-sdim0285-4star_.jpg
