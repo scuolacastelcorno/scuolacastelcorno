@@ -6,3 +6,5 @@ end: 2024-10-22T14:07:59.772Z
 image: /img/2015_0315-mandron-pisgana-sdim0219-3star_.jpg
 ---
 Per il 2025, anno del nostro 60° compleanno, abbiamo messo a calendario quattro corsi. Iniziamo l'inverno dal **ghiaccio verticale** per poi seguire con lo **scialpinismo**; primavera con l'**arrampicata libera** e chiudiamo in settembre con il corso di **alpinismo su roccia avanzato**.
+
+Il libretto in formato pdf può essere visualizzato al seguente link: <https://drive.google.com/file/d/1-j7juzWnY3ynhvBmCdZa-2Re6ywUcRmM/view?usp=sharing>
