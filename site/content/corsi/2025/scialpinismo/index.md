@@ -1,5 +1,5 @@
 ---
-title: 43° CORSO DI SCIALPINISMO BASE - SA1  2025
+title: 43° Corso di Scialpinismo Base - SA1 2025
 date: 2024-09-28T18:02:36.689Z
 start: 2025-01-15T18:02:36.689Z
 end: 2025-03-14T18:02:36.689Z
