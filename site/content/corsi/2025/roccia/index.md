@@ -1,5 +1,5 @@
 ---
-title: CORSO ROCCIA AVANZATO AR2 2025
+title: 1° Corso Roccia Avanzato - AR2 2025
 date: 2024-07-21T22:00:00.000Z
 start: 2025-09-21T22:00:00.000Z
 end: 2025-10-21T22:00:00.000Z
