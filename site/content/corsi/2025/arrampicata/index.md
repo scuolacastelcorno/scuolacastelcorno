@@ -36,7 +36,7 @@ Le lezioni teoriche si tengono dalle ore 20.30 alle 22.30 presso la sede S.A.T. 
 
 - Merc. 16 aprile teoria: materiali e attrezzatura (presentazione corso e istruttori). Presso Montura Isera.
 
-- Mar. 6 maggio teoria: tecnica del movimento in arrampicata e progressione fondamentale (struttura indoor).
+- Mar. 6 maggio teoria: tecnica del movimento in arrampicata e progressione fondamentale (Palestra indoor Block3).
 
 - **Dom. 11 maggio 1° uscita**: legatura, manovre, tecnica di assicurazione. Arrampicata in top-rope.
 
