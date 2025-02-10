@@ -36,11 +36,11 @@ Le lezioni teoriche si tengono dalle ore 20.30 alle 22.30 presso la sede S.A.T. 
 
 - Merc. 16 aprile teoria: materiali e attrezzatura (presentazione corso e istruttori). Presso Montura Isera.
 
-- Gio. 8 maggio teoria: tecnica del movimento in arrampicata e progressione fondamentale (struttura indoor).
+- Mar. 6 maggio teoria: tecnica del movimento in arrampicata e progressione fondamentale (struttura indoor).
 
 - **Dom. 11 maggio 1° uscita**: legatura, manovre, tecnica di assicurazione. Arrampicata in top-rope.
 
-- Gio. 15 maggio teoria: catena di assicurazione e caratteristiche dei materiali in arrampicata libera.
+- Mer. 14 maggio teoria: catena di assicurazione e caratteristiche dei materiali in arrampicata libera.
 
 - **Sab. 17 maggio 2° uscita**: tecnica del movimento in arrampicata, manovre, soste; uscita in falesia.
 
@@ -50,7 +50,7 @@ Le lezioni teoriche si tengono dalle ore 20.30 alle 22.30 presso la sede S.A.T. 
 
 - **Dom. 25 maggio 3° uscita**: arrampicata in struttura indoor.
 
-- Gio. 5 giugno teoria: flora fauna. Accenni di geologia del Trentino.
+- Mer. 5 giugno teoria: flora fauna. Accenni di geologia del Trentino.
 
 - **Sab. 7 giugno 5° uscita**: falesia in Dolomiti, arrampicata “da primo”.
 
