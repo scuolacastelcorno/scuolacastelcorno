@@ -5,6 +5,10 @@ start: 2025-04-18T13:44:47.785Z
 end: 2025-06-18T13:44:55.086Z
 image: /img/2015_0621-andrea-mancin-tognazza-sdim0285-4star_.jpg
 ---
+<font color="red"><strong>**ATTENZIONE!!!</strong> Dispiace comunicare che è stato raggiunto il limite di pre-iscrizioni raccolte per il 10° Corso di Arrampicata Libera. Da ora in poi le iscrizioni vengono accettate in riserva, e sarete ricontattati nel caso qualcuno si ritiri.**</font>
+
+- - -
+
 Direttore: **Giulio Bonapace** I.NA.L. - (+39) 334 1037895
 
 Vice direttore: **Thomas Candioli** I.A.L. - (+39) 348 8110250
