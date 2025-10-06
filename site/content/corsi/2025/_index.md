@@ -1,5 +1,5 @@
 ---
-title: I nostri corsi per il 2025
+title: Corsi 2025
 date: 2024-09-23T18:02:36.689Z
 start: 2024-10-22T14:07:58.638Z
 end: 2024-10-22T14:07:59.772Z
