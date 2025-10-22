@@ -8,3 +8,4 @@ layout: corsi
 Per il 2026 abbiamo in programma un corso di **scialpinismo base** (SA1), un corso **monotematico avanzato di scialpinismo** (M-MA, monotematico manovre autosoccorso), ed un corso di **alpinismo su roccia** (AR1).
 I programmi dei corsi saranno annunciati per fine Ottobre.
 Per *iscriversi*, attendere la pubblicazione del corso.
+Le iscrizioni al corso di scialpinismo sono già aperte!.

@@ -6,7 +6,6 @@ start: 2026-01-15T18:02:36.689Z
 end: 2026-03-14T18:02:36.689Z
 image: /img/img_20180114_131322031.jpg
 ---
-
 Direttore: Piarosa Vigagni – 349 5121336
 
 Vicedirettore: Andrea Arnone – 333 1528168,
@@ -28,18 +27,19 @@ ATTENZIONE!
 
 Chiediamo agli interessati al corso di compilare il form <https://forms.gle/artXFsVdQuvi6p6cA>.
 L'iscrizione dovrà poi essere confermata con il pagamento di una caparra.
-A tal scopo, verrà organizzata una giorta di presentazione del corso nel mese di Novembre.
+A tal scopo, verrà organizzata una serata di presentazione del corso nel mese di Novembre.
 
 - - -
 
 Ai fini dell’iscrizione si richiede:
-- certificato medico che attesti lo stato di buona salute per lo svolgimento di
-attività non agonistica;
-- iscrizione CAI/SAT per l’anno 2026. Per i non soci CAI/SAT, il giorno stesso
-sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto. La
-quota d’iscrizione è comprensiva di:
-- uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
-- attestato di frequenza.
+
+* certificato medico che attesti lo stato di buona salute per lo svolgimento di
+  attività non agonistica;
+* iscrizione CAI/SAT per l’anno 2026. Per i non soci CAI/SAT, il giorno stesso
+  sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto. La
+  quota d’iscrizione è comprensiva di:
+* uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
+* attestato di frequenza.
 
 Sono escluse le spese di trasferimento, vitto, alloggio e, per la prima uscita, eventuali
 impianti di risalita. La Scuola Castel Corno non fornisce il noleggio dell’attrezzatura
