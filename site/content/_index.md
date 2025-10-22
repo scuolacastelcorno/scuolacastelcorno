@@ -1,6 +1,6 @@
 ---
 title: Scuola di Alpinismo, Scialpinismo e Arrampicata Libera Castel Corno
-subtitle: CAI - SAT Rovereto e Mori
+subtitle: "CAI - SAT <img src='img/logo-sat.png' height='30px' class='v-mid' > Rovereto e Mori"
 image: img/191206941.jpg
 # logo: img/logocastelcorno-notext.png
 ---

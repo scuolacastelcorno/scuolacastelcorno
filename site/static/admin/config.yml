@@ -41,6 +41,7 @@ collections: # A list of collections the CMS should be able to edit
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: Subtitle, name: subtitle, widget: string}
       - label: "Date"
         name: "date"
         widget: "datetime"
