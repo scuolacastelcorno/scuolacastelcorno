@@ -85,10 +85,15 @@
     background-color: transparent;
     padding: var(--spacing-small) 0 var(--spacing-small) 0;
     position: absolute;
+    color: black;
+}
+
+.nav-transparent .title {
+    color: transparent
 }
 
 .nav-transparent img {
-    height: 3rem;
+    height: 5rem;
 }
 
 .nav-colored {
