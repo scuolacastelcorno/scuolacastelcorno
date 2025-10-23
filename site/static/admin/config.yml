@@ -12,20 +12,6 @@ public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
 
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
-    path: "{{slug}}/index" # Each document is inside a folder with the slug name.
-    media_folder: "/site/static/img" # Folder where user uploaded files should go
-    public_folder: "/img"
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "corsi" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Corsi" # Used in the UI, ie.: "Nuovi Corsi"
     folder: "site/content/corsi" # The path to the folder where the documents are stored
@@ -35,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     # adding a nested object will show the collection folder structure
     nested:
-      depth: 3 # max depth to show in the collection tree
+      depth: 2 # max depth to show in the collection tree
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
     meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
@@ -46,28 +32,31 @@ collections: # A list of collections the CMS should be able to edit
         name: "date"
         widget: "datetime"
         default: "{{now}}"
-        date_format: "MMMM YYYY" # e.g. February 2021
+        date_format: "MMMM DD, YYYY" # e.g. February 21, 2021
         picker_utc: false
-      - {label: "Start", name: "start", widget: "datetime", default: "{{now}}", date_format: "MMMM YYYY", picker_utc: false} # e.g. February 2021, 
-      - {label: "End", name: "end", widget: "datetime", default: "{{now}}", date_format: "MMMM YYYY", picker_utc: false} # e.g. February 2021, 
+      - {label: "Start", name: "start", widget: "datetime", default: "{{now}}", date_format: "MMMM DD, YYYY", picker_utc: false} # e.g. February 21, 2021
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "stagioni" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Stagioni" # Used in the UI, ie.: "Nuovi Corsi"
-    folder: "site/content/corsi" # The path to the folder where the documents are stored
+  - name: "archivio" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Archivio" # Used in the UI, ie.: "Nuovi Corsi"
+    folder: "site/content/archivio" # The path to the folder where the documents are stored
     path: "{{slug}}/_index" # Each document is inside a folder with the slug name.
     media_folder: "/site/static/img" # Folder where user uploaded files should go
     public_folder: "/img"
     create: true # Allow users to create new documents in this collection
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 2 # max depth to show in the collection tree
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - label: "Date"
         name: "date"
         widget: "datetime"
         default: "{{now}}"
-        date_format: "MMMM YYYY" # e.g. February 2021
+        date_format: "MMMM DD, YYYY" # e.g. February 21, 2021
         picker_utc: false
+      - {label: "Start", name: "start", widget: "datetime", default: "{{now}}", date_format: "MMMM DD, YYYY", picker_utc: false} # e.g. February 21, 2021
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   
@@ -98,6 +87,9 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/corsi/_index.md"
         label: "Corsi"
         name: "corsi"
+        # adding a meta object with a path property allows editing the path of entries
+        # moving an existing entry will move the entire sub tree of the entry to the new location
+        meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
