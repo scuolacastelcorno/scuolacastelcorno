@@ -1,8 +1,8 @@
 {
-  "name": "one-click-hugo-cms",
+  "name": "scuolacastelcorno",
   "version": "1.0.0",
-  "description": "Hugo template with Decap CMS ",
-  "repository": "decaporg/one-click-hugo-cms",
+  "description": "Based on hugo template with Decap CMS decaporg/one-click-hugo-cms",
+  "repository": "scuolacastelcorno/scuolacastelcorno",
   "main": "index.js",
   "engines": {
     "node": ">=18.0.0"

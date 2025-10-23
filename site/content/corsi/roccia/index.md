@@ -1,7 +1,7 @@
 ---
 title: "55° corso alpinismo/roccia"
 subtitle: "Settembre - Ottobre 2026"
-date: 2025-10-22T12:00:00.000Z
+date: 2025-10-20T18:02:36.689Z
 image: /img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
 ---
 

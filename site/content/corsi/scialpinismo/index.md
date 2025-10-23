@@ -1,9 +1,8 @@
 ---
 title: 44° Corso di Scialpinismo Base (SA1)
 subtitle: Gennaio - Marzo 2026
-date: 2025-09-28T18:02:36.689Z
+date: 2025-10-22T18:02:36.689Z
 start: 2026-01-15T18:02:36.689Z
-end: 2026-03-14T18:02:36.689Z
 image: /img/img_20180114_131322031.jpg
 ---
 Direttore: Piarosa Vigagni – 349 5121336

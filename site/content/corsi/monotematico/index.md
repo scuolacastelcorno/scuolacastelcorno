@@ -1,7 +1,7 @@
 ---
 title: Monotematico Scialpinismo in Ghiacciaio
 subtitle: Marzo - Aprile 2026
-date: 2025-09-28T18:02:36.689Z
+date: 2025-10-21T18:02:36.689Z
 start: 2026-03-15T18:02:36.689Z
 end: 2026-04-14T17:02:36.689Z
 image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg

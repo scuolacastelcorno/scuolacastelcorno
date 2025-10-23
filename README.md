@@ -25,6 +25,8 @@ Clone this repository, and run `yarn` or `npm install` from the new folder to in
 
 Then start the development server with `yarn start` or `npm start`.
 
+To start local decap server: `npx decap-server`.
+
 ## Testing
 
 With the development server running, run the tests locally

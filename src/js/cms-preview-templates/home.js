@@ -8,8 +8,12 @@ export default class HomePreview extends React.Component {
     const {entry, getAsset} = this.props;
     const image = getAsset(entry.getIn(["data", "image"]));
 
+    const subtitle = entry.getIn(["data", "subtitle"]) || "";
+    // if subtitle contains markdown, convert it to HTML:
+    const subtitleHtml = marked.parse(subtitle);
+
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={entry.getIn(["data", "subtitle"])}/>
+      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={<span dangerouslySetInnerHTML={{ __html: subtitleHtml }} />}/>
 
       <div className="bg-grey-1 pv4">
         <div className="flex-l mhn1-l ph3 center mw7">
@@ -31,54 +35,8 @@ export default class HomePreview extends React.Component {
           </div>
 
           <div className="tc">
-            <a href="#" className="btn raise">See all products</a>
+            <a href="#" className="btn raise">...</a>
           </div>
-        </div>
-      </div>
-
-      <div className="bg-grey-1 pv4">
-        <div className="ph3 mw7 center">
-
-          <div className="flex-l mhn2-l">
-
-            <div className="w-60-l ph2-l">
-              <img src={getAsset(entry.getIn(["data", "scuola"]).get("image"))} alt="" className="mb3"/>
-            </div>
-
-            <div className="w-40-l ph2-l">
-              <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "scuola", "heading"])}</h2>
-              <p dangerouslySetInnerHTML={{ __html: marked(entry.getIn(["data", "scuola", "text"])) }} />
-            </div>
-
-          </div>
-
-          <div className="tc">
-            <a href="{{.buttonLink}}" className="btn raise">Read more</a>
-          </div>
-
-        </div>
-      </div>
-
-      <div className="bg-grey-1 pv4">
-        <div className="ph3 mw7 center">
-
-          <div className="flex-l mhn2-l">
-            
-            <div className="w-60-l ph2-l">
-              <img src={getAsset(entry.getIn(["data", "organico", "image"]))} alt="" className="mb3"/>
-            </div>
-
-            <div className="w-40-l ph2-l">
-              <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "organico", "heading"])}</h2>
-              <div dangerouslySetInnerHTML={{ __html: marked(entry.getIn(["data", "organico", "text"])) }} />
-            </div>
-
-          </div>
-
-          <div className="tc">
-            <a href="{{.buttonLink}}" className="btn raise">Read more</a>
-          </div>
-
         </div>
       </div>
 
