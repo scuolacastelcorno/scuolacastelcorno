@@ -15,7 +15,7 @@ Vicedirettore: Giulio Bonapace
 
 Corso monotematico di approfondimento delle tecniche di **autosoccorso** su ghiaccio e allestimento di corde fisse per la **progressione** su *canali o creste* in attività **scialpinistica**. Legature su ghiaccio, utilizzo ramponi, picche e corde.
 
-10/12 partecipanti, 350 € (nati dal 2005: 300 €) - Escluse spese viaggio e pernottamento rifugio.
+10/12 partecipanti, 300 € (nati dal 2005: 250 €) - Escluse spese viaggio e pernottamento rifugio.
 
 - - -
 
@@ -39,8 +39,8 @@ Ai fini dell’iscrizione si richiede:
 - *Metà novembre* (data da definire) - Presentazione corsi scialpinismo 2026 e raccolta caparra iscrizione
 - *Febbraio* - <font color="red">**Chiusura iscrizioni**</font>
 - *Mer​ 11 marzo* - Materiali e legature
+- **Dom 15 marzo** - Prima uscita in ambiente (Brenta)
 - *Mer​ 18 marzo* - Catena di assicurazione
-- **Dom 22 marzo** - Prima uscita in ambiente (Brenta)
 - *Mer 25 marzo* - Glaciologia, di Christian Casarotto
 - **Dom 29 marzo** - Seconda uscita in ambiente
 - **Sab 4, Dom 5 (Pasqua), Lun 6** - Rifugio Franz-Senn-Hutte
