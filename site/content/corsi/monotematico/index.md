@@ -1,5 +1,5 @@
 ---
-title: Monotematico Scialpinismo in Ghiacciaio
+title: Monotematico Scialpinismo in Ghiacciaio (M-MA)
 subtitle: Marzo - Aprile 2026
 date: 2025-10-21T18:02:36.689Z
 start: 2026-03-15T18:02:36.689Z
