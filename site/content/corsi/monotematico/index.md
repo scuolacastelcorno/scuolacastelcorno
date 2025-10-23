@@ -21,7 +21,7 @@ Corso monotematico di approfondimento delle tecniche di **autosoccorso** su ghia
 
 ATTENZIONE!
 
-Chiediamo agli interessati al corso di compilare il form <https://forms.gle/artXFsVdQuvi6p6cA>.
+Chiediamo agli interessati al corso di compilare il form <https://forms.gle/HuGHf8bUF5oVjoSU9>.
 L'iscrizione dovrà poi essere confermata con il pagamento di una caparra.
 A tal scopo, verrà organizzata una serata di presentazione del corso nel mese di Novembre.
 
