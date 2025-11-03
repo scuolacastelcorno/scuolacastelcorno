@@ -19,11 +19,14 @@ Corso monotematico di approfondimento delle tecniche di **autosoccorso** su ghia
 
 - - -
 
+<strong><font color="red">
 ATTENZIONE!
+</font></strong>
 
 Chiediamo agli interessati al corso di compilare il form <https://forms.gle/HuGHf8bUF5oVjoSU9>.
-L'iscrizione dovrà poi essere confermata con il pagamento di una caparra.
-A tal scopo, verrà organizzata una serata di presentazione del corso nel mese di Novembre.
+L'iscrizione dovrà poi essere confermata con il pagamento di una caparra, nella serata prevista per il 18 Novembre.
+
+<strong>Vi aspettiamo il 18 Novembre 2025 - Sede SAT Rovereto, ore 20.30 - 21.00.</strong>
 
 - - -
 
