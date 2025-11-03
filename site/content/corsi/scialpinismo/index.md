@@ -22,11 +22,16 @@ Numero massimo partecipanti: **25**
 
 - - -
 
+<strong><font color="red">
 ATTENZIONE!
 
-Chiediamo agli interessati al corso di compilare il form <https://forms.gle/artXFsVdQuvi6p6cA>.
-L'iscrizione dovrà poi essere confermata con il pagamento di una caparra.
-A tal scopo, verrà organizzata una serata di presentazione del corso nel mese di Novembre.
+Abbiamo raggiunto la quota massima di iscritti. Lasciamo la possibilità di compilare il form per mettersi in lista d'attesa. Verrete ricontattati se si liberano posti.</font></strong>
+
+- Per la lista d'attesa, compilare il form <https://forms.gle/artXFsVdQuvi6p6cA>.
+
+- Per chi si è già iscritto, verrà contattato per mail e dovrà poi confermare l'iscrizione con il pagamento di una caparra nella serata organizzata il 18 Novembre.
+
+<strong>Vi aspettiamo il 18 Novembre 2025 - Sede SAT Rovereto, ore 20.30 - 21.00.</strong>
 
 - - -
 
