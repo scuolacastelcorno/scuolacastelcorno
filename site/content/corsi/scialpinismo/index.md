@@ -59,9 +59,9 @@ Attenzione: mercoledì 21 gennaio la lezione teorica si terrà presso Montura St
 
 * <font color="orange">**mercoledì 21 gennaio 2025, 19.30** </font>- [Montura Store ISERA](https://maps.app.goo.gl/giW1ZCt2mnnsZFE36) - Presentazione del corso. Materiali e attrezzatura
 * <font color="orange">**mercoledì 28 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
-* <font color="blue">**domenica 8 febbraio**</font> - Tecniche di risalita e discesa, prime nozioni sull’attrezzatura personale.
+* <font color="blue">**domenica 1 febbraio**</font> - Tecniche di risalita e discesa, prime nozioni sull’attrezzatura personale.
 * <font color="orange">**mercoledì 4 febbraio, 20.30** </font> - ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
-* <font color="blue">**domenica 15 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
+* <font color="blue">**domenica 8 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
 * <font color="orange">**mercoledì 18 febbraio, 20.30** </font> - Nivologia. Lettura del bollettino valanghe
 * <font color="blue">**sabato 21 febbraio** </font> - Stratigrafia, blocco di scivolamento, ricerca individuale del travolto, scavo.
 * <font color="blue">**domenica 22 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo.
@@ -70,4 +70,4 @@ Attenzione: mercoledì 21 gennaio la lezione teorica si terrà presso Montura St
 * <font color="orange">**mercoledì 18 marzo, 20.30** </font> - Autosoccorso in valanga.
 * <font color="blue">**sabato e domenica 21-22 marzo** </font> - Pernottamento in rifugio. Riconoscimento siti valanghivi, scelta dei percorsi e autosoccorso di gruppo in valanga.
 * <font color="orange">**mercoledì 25 marzo, 20.30** </font> - Fuori corso, per chi fosse interessato, lezione sulla manutenzione e preparazione degli sci d’alpinismo.
-* Venerdì 14 marzo - Cena di fine corso
+* Venerdì 27 marzo - Cena di fine corso
