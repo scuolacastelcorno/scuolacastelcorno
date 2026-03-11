@@ -1,13 +1,22 @@
 ---
-title: "55° corso alpinismo/roccia"
-subtitle: "Settembre - Ottobre 2026"
+title: 55° corso alpinismo/roccia
+subtitle: Settembre - Ottobre 2026
 date: 2025-10-20T18:02:36.689Z
+start: 2026-03-11T14:37:52.293Z
 image: /img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
 ---
 
 Direttore: **Matteo Perottoni** I.N.A. - cel 3492672567
 
 Vicedirettore: **Doriano Filippi** I.A. - cel. 3398767432
+
+---
+
+<strong><font color="red">
+ATTENZIONE!
+
+Abbiamo raggiunto la quota massima di iscritti. Le pre-iscrizioni sono chiuse.
+</font></strong>
 
 ---
 
