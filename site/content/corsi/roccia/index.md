@@ -36,8 +36,8 @@ Numero massimo di partecipanti: **13**
 
 PROGRAMMA:
 
-- *Giovedì 10 settembre:* presentazione corso ed istruttori; equipaggiamento e materiali.
-- *Giovedì 17 settembre:* nodi, ancoraggi, soste (quali usare, dove, quando).
+- *Martedì 8 settembre:* presentazione corso ed istruttori; equipaggiamento e materiali.
+- *Mercoledì 16 settembre:* nodi, ancoraggi, soste (quali usare, dove, quando).
 - **Domenica 20 settembre:** costruzione soste, trattenuta, corda doppia.
 - *Giovedì 24 settembre:* tecnica del movimento in arrampicata, baricentro, equilibri.
 - **Domenica 27 settembre:** tecnica del movimento e predisposizione ancoraggi intermedi per la progressione in cordata.
