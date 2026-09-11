@@ -5,12 +5,11 @@ date: 2025-10-20T18:02:36.689Z
 start: 2026-03-11T14:37:52.293Z
 image: /img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
 ---
-
 Direttore: **Matteo Perottoni** I.N.A. - cel 3492672567
 
 Vicedirettore: **Doriano Filippi** I.A. - cel. 3398767432
 
----
+- - -
 
 <strong><font color="red">
 ATTENZIONE!
@@ -18,7 +17,7 @@ ATTENZIONE!
 Abbiamo raggiunto la quota massima di iscritti. Le pre-iscrizioni sono chiuse.
 </font></strong>
 
----
+- - -
 
 **Iscrizione**
 300€ (260€ se minore di 21 anni).
@@ -32,17 +31,18 @@ Numero massimo di partecipanti: **13**
 
 **Per qualsiasi ulteriore informazione contattare il direttore del corso.**
 
----
+- - -
 
 PROGRAMMA:
 
-- *Martedì 8 settembre:* presentazione corso ed istruttori; equipaggiamento e materiali.
-- *Mercoledì 16 settembre:* nodi, ancoraggi, soste (quali usare, dove, quando).
-- **Domenica 20 settembre:** costruzione soste, trattenuta, corda doppia.
-- *Giovedì 24 settembre:* tecnica del movimento in arrampicata, baricentro, equilibri.
-- **Domenica 27 settembre:** tecnica del movimento e predisposizione ancoraggi intermedi per la progressione in cordata.
-- *Giovedì 1 ottobre:* preparazione salita, lettura di una guida e consultazione siti internet, pericoli oggettivi e soggettivi dell’ambiente alpino.
-- **Domenica 4 ottobre:** via lunga di arrampicata in valle del Sarca.
-- **Sab 10 - Dom 11 ottobre:** vie lunghe in Dolomiti (partenza venerdì pomeriggio).
-- **Dom 18 ottobre:** via lunga di arrampicata in valle del Sarca.
-- *Giovedì 22 ott:* cena di fine corso e consegna diplomi.
+* *Martedì 8 settembre:* presentazione corso ed istruttori; equipaggiamento e materiali.
+* *Mercoledì 16 settembre:* nodi, ancoraggi, soste (quali usare, dove, quando).
+* **Domenica 20 settembre:** costruzione soste, trattenuta, corda doppia.
+* *Mercoledì 24 settembre:* tecnica del movimento in arrampicata, baricentro, equilibri.
+* **Domenica 27 settembre:** tecnica del movimento e predisposizione ancoraggi intermedi per la progressione in cordata.
+* *Mercoledì 1 ottobre:* preparazione salita, lettura di una guida e consultazione siti internet, pericoli oggettivi e soggettivi dell’ambiente alpino.
+* **Domenica 4 ottobre:** via lunga di arrampicata in valle del Sarca.
+* Mercoledì 7 ottobre: geologia delle Alpi. (da confermare)
+* **Sab 10 - Dom 11 ottobre:** vie lunghe in Dolomiti (partenza venerdì pomeriggio).
+* **Dom 18 ottobre:** via lunga di arrampicata in valle del Sarca.
+* *Giovedì 22 ott:* cena di fine corso e consegna diplomi.
