@@ -1,21 +1,22 @@
 ---
-title: Stagione 2025-2026
+title: Stagione 2026-2027
 subtitle: I nostri corsi
-date: 2025-10-05T22:00:00.000Z
-start: 2025-10-23T09:49:15.929Z
-end: 2026-10-23T09:49:21.062Z
+date: 2026-10-24T22:00:00.000Z
+start: 2026-10-25T09:49:15.929Z
+end: 2027-10-23T09:49:21.062Z
 image: /img/2015_0315-mandron-pisgana-sdim0219-3star_.jpg
 layout: corsi
 ---
-Per il 2026 abbiamo in programma tre corsi: **scialpinismo base** (SA1), **monotematico avanzato di scialpinismo** (M-MA, monotematico manovre autosoccorso) e **alpinismo su roccia** (AR1).
 
-*Le pre-iscrizioni ai corsi sono aperte!* (vedere pagina del corso)
+Per il 2027 abbiamo in programma quattro corsi: **scialpinismo base** (SA1), **arrampicata su cascate di ghiaccio** (ACG1), **arrampicata** (AL1) e **alta montagna** (AG1).
+
+Le modalità di partecipazione sono indicate nelle pagine dei singoli corsi.
 
 ### **Serata presentazione corsi**
-##### *18 Novembre 2025*
-*Sede SAT Rovereto, ore 20.30 - 21.00*
+##### *4 novembre 2026*
+*Sede SAT Rovereto, ore 19.30 - 20.30*
 
-- Presentazione scuola
-- Presentazione corsi - Scialpinismo Base, Monotematico Scialpinismo Avanzato, Roccia
+- Presentazione della scuola
+- Presentazione dei corsi
 - Chiarimenti e domande
-- Raccolta iscrizioni - Preiscriversi già da ora sul sito per riservarsi un posto, fino ad esaurimento posti
+- Raccolta iscrizioni e caparra per il corso di scialpinismo

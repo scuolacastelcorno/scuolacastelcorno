@@ -5,7 +5,7 @@ table
 }
 
 td, th {
-  padding: $spacing-medium;
+  padding: var(--spacing-small);
 }
 
 th:not(:first-child), td:not(:first-child) {
@@ -16,15 +16,16 @@ th {
   color: var(--grey-3);
   font-weight: 700;
   white-space: nowrap;
-   {
-    white-space: wrap;
-  }
 }
 
 tr th {
   text-align: center;
 }
 
-tbody tr:nth-child(even) {
+tbody tr + tr {
+  border-top: 1px solid var(--grey-2);
+}
+
+tbody tr:has(span[style*="#1f5f8b"]) {
   background-color: var(--grey-1);
 }

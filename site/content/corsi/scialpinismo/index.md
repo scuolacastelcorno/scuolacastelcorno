@@ -1,73 +1,53 @@
 ---
-title: 44° Corso di Scialpinismo Base (SA1)
-subtitle: Gennaio - Marzo 2026
-date: 2025-10-22T18:02:36.689Z
-start: 2026-01-15T18:02:36.689Z
+title: 45° Corso Base Scialpinismo (SA1)
+subtitle: Gennaio - Marzo 2027
+date: 2026-10-22T18:02:36.689Z
+start: 2027-01-20T18:02:36.689Z
 image: /img/img_20180114_131322031.jpg
 ---
-Direttore: Piarosa Vigagni – 349 5121336
 
-Vicedirettore: Andrea Arnone – 333 1528168,
-Christian Casarotto – 351 8595312
+Direttore: Marco Robol — 377 1372310
 
-Quota iscrizione: 350,00 € (300,00 € se minore di 21 anni )
+Vicedirettore: Piarosa Vigagni — 349 5121336
 
-- - -
+Quota iscrizione: **380,00 €** (350,00 € se minore di 21 anni)
 
-SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. Ai partecipanti è **richiesta sufficiente abilità sciatoria** e sono ammessi sia **scialpinisti** che partecipanti con **tavola splitboard**.
-Il corso prevede l’insegnamento, attraverso **lezioni teoriche e uscite sul terreno**, delle nozioni fondamentali per poter svolgere l’attività scialpinistica con **ragionevole sicurezza su itinerari non impegnativi**.
-Particolare attenzione sarà dedicata alla prevenzione del pericolo valanghe. 
+---
+
+SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. È richiesta sufficiente abilità sciatoria; sono ammessi sia scialpinisti sia partecipanti con tavola splitboard.
+
+Il corso insegna, attraverso lezioni teoriche e uscite sul terreno, le nozioni fondamentali per svolgere l’attività scialpinistica con ragionevole sicurezza su itinerari non impegnativi, con particolare attenzione alla prevenzione del pericolo valanghe.
 
 Numero massimo partecipanti: **25**
 
-- - -
+## Iscrizione
 
-<strong><font color="red">
-ATTENZIONE!
+Il corso verrà presentato mercoledì **4 novembre 2026**, dalle ore 19.30 alle 20.30, presso la sede SAT di Rovereto, dove sarà possibile iscriversi al corso versando una caparra di **200 € in contanti**. Per garantirsi la possibilità di iscriversi al corso è necessario compilare il seguente modulo di preiscrizione https://forms.gle/a1XVG5gNRZSqxVhs5. (Fino ad esaurimento posti disponibili).
 
-Abbiamo raggiunto la quota massima di iscritti. Lasciamo la possibilità di compilare il form per mettersi in lista d'attesa. Verrete ricontattati se si liberano posti.</font></strong>
+Per finalizzare l'iscrizione, da effettuare al momento dell'inizio del corso, si richiede:
 
-- Per la lista d'attesa, compilare il form <https://forms.gle/artXFsVdQuvi6p6cA>.
+* certificato medico che attesti lo stato di buona salute per lo svolgimento di attività non agonistica;
+* attestazione di iscrizione CAI/SAT per l’anno in corso. Per i non soci CAI/SAT sarà possibile iscriversi il giorno stesso alla Sezione SAT di Rovereto.
 
-- Per chi si è già iscritto, verrà contattato per mail e dovrà poi confermare l'iscrizione con il pagamento di una caparra nella serata organizzata il 18 Novembre.
+La quota comprende l’uso del materiale di autosoccorso (ARTVA, sonda e pala), se non in possesso, e l’attestato di frequenza. Sono escluse le spese di trasferimento, vitto, alloggio ed eventuali impianti di risalita per la prima uscita. La scuola non fornisce il noleggio dell’attrezzatura scialpinistica.
 
-<strong>Vi aspettiamo il 18 Novembre 2025 - Sede SAT Rovereto, ore 20.30 - 21.00.</strong>
+## Programma
 
-- - -
+Lezioni teoriche: ore 20.30 presso la sede SAT Rovereto, Corso Rosmini n. 53. Lezioni pratiche e uscite sul terreno: scelte in base alle condizioni nivo-meteorologiche e comunicate qualche giorno prima.
 
-Ai fini dell’iscrizione si richiede:
-
-* certificato medico che attesti lo stato di buona salute per lo svolgimento di
-  attività non agonistica;
-* iscrizione CAI/SAT per l’anno 2026. Per i non soci CAI/SAT, il giorno stesso
-  sarà possibile effettuare l’iscrizione al sodalizio, Sezione SAT di Rovereto. La
-  quota d’iscrizione è comprensiva di:
-* uso del materiale di autosoccorso (Artva, sonda e pala), se non in possesso;
-* attestato di frequenza.
-
-Sono escluse le spese di trasferimento, vitto, alloggio e, per la prima uscita, eventuali
-impianti di risalita. La Scuola Castel Corno non fornisce il noleggio dell’attrezzatura
-Sci Alpinistica (sci, scarponi, pelli di foca, rampant/coltelli da sci).
-
-- - -
-
-**Programma del corso:**
-
-<font color="orange">**Lezioni teoriche:**</font> ore 20.30 presso la sede [SAT Rovereto](https://maps.app.goo.gl/Wi3UYzciUAhJFHAU7) Corso Rosmini n.53\
-Attenzione: mercoledì 21 gennaio la lezione teorica si terrà presso Montura Store di Isera dalle 19.30
-<font color="blue">**Lezioni pratiche e uscite sul terreno:** </font> scelte sulla base delle condizioni nivo-meteorologiche e comunicate qualche giorno precedente l’uscita
-
-* <font color="orange">**mercoledì 21 gennaio 2025, 19.30** </font>- [Montura Store ISERA](https://maps.app.goo.gl/giW1ZCt2mnnsZFE36) - Presentazione del corso. Materiali e attrezzatura
-* <font color="orange">**mercoledì 28 gennaio, 20.30**</font> - Pianificazione e preparazione di una uscita scialpinistica. Preparazione fisica, alimentazione e pericoli soggettivi. Scelta dell’itinerario
-* <font color="blue">**domenica 1 febbraio**</font> - Tecniche di risalita e discesa, prime nozioni sull’attrezzatura personale.
-* <font color="orange">**mercoledì 4 febbraio, 20.30** </font> - ARTVA, sonda e pala. Principio di funzionamento ARTVA, SAT Rovereto accensione, spegnimento, controllo del buon funzionamento.
-* <font color="blue">**domenica 8 febbraio** </font> - Strumenti di autosoccorso e loro impiego per il recupero di un travolto
-* <font color="orange">**mercoledì 18 febbraio, 20.30** </font> - Nivologia. Lettura del bollettino valanghe
-* <font color="blue">**sabato 21 febbraio** </font> - Stratigrafia, blocco di scivolamento, ricerca individuale del travolto, scavo.
-* <font color="blue">**domenica 22 febbraio** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo.
-* <font color="orange">**mercoledì 4 marzo, 20.30** </font> - Cartografia e orientamento
-* <font color="blue">**domenica 8 marzo** </font> - Conduzione dell’itinerario. Pericoli oggettivi, soggettivi e gestione del gruppo
-* <font color="orange">**mercoledì 18 marzo, 20.30** </font> - Autosoccorso in valanga.
-* <font color="blue">**sabato e domenica 21-22 marzo** </font> - Pernottamento in rifugio. Riconoscimento siti valanghivi, scelta dei percorsi e autosoccorso di gruppo in valanga.
-* <font color="orange">**mercoledì 25 marzo, 20.30** </font> - Fuori corso, per chi fosse interessato, lezione sulla manutenzione e preparazione degli sci d’alpinismo.
-* Venerdì 27 marzo - Cena di fine corso
+| | |
+|---|---|
+| Mercoledì 20 gennaio 2027, ore 19.30 | Presentazione del corso, materiali e attrezzatura. **Montura Store Isera** |
+| Mercoledì 27 gennaio, ore 20.30 | Pianificazione e preparazione di un’uscita; preparazione fisica, alimentazione, pericoli soggettivi e scelta dell’itinerario. **Sede SAT Rovereto** |
+| <span style="color: #1f5f8b"><strong>Domenica 31 gennaio</strong></span> | <span style="color: #1f5f8b">Tecniche di risalita e discesa; prime nozioni sull’attrezzatura personale.</span> |
+| Mercoledì 3 febbraio, ore 20.30 | ARTVA, sonda e pala. **Sede SAT Rovereto** |
+| <span style="color: #1f5f8b"><strong>Domenica 7 febbraio</strong></span> | <span style="color: #1f5f8b">Uscita scialpinistica con itinerario pianificato e strumenti di autosoccorso.</span> |
+| Mercoledì 10 febbraio, ore 20.30 (fuori corso) | Manutenzione e preparazione degli sci d’alpinismo. **Sede SAT Rovereto** |
+| Mercoledì 17 febbraio, ore 20.30 | Nivologia e lettura del bollettino. **Sede SAT Rovereto** |
+| <span style="color: #1f5f8b"><strong>Sabato 20 febbraio</strong></span> | <span style="color: #1f5f8b">Stratigrafia, blocco di scivolamento, ricerca individuale del travolto e scavo.</span> |
+| <span style="color: #1f5f8b"><strong>Domenica 21 febbraio</strong></span> | <span style="color: #1f5f8b">Perfezionamento della tecnica di salita.</span> |
+| Mercoledì 24 febbraio, ore 20.30 | Cartografia e orientamento. **Sede SAT Rovereto** |
+| <span style="color: #1f5f8b"><strong>Domenica 28 febbraio</strong></span> | <span style="color: #1f5f8b">Conduzione dell’itinerario e gestione del gruppo.</span> |
+| Mercoledì 3 marzo, ore 20.30 | Autosoccorso in valanga. **Sede SAT Rovereto** |
+| <span style="color: #1f5f8b"><strong>Sabato e domenica 6-7 marzo</strong></span> | <span style="color: #1f5f8b">Pernottamento, siti valanghivi, scelta del percorso e autosoccorso di gruppi in valanga. <strong>Rifugio Roma, Val Aurina</strong></span> |
+| Mercoledì 10 marzo | Cena di fine corso. **—** |

@@ -12,7 +12,7 @@
         
             <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
         
-                {{ range .Pages }}
+                {{ range (sort .Pages "Params.start") }}
                     
                     <li class="w-50-ns ph1-ns flex">
                     
