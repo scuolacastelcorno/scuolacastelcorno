@@ -49,6 +49,12 @@
       ]
     },
     {
+      "nome": "Battistotti Francesco",
+      "titoli": [
+        "AIS"
+      ]
+    },
+    {
       "nome": "Battistotti Riccardo",
       "titoli": [
         "IAL",
@@ -127,13 +133,19 @@
     {
       "nome": "Farinati Christian",
       "titoli": [
-        "IA"
+        "INA"
       ]
     },
     {
       "nome": "Filippi Doriano",
       "titoli": [
         "IA"
+      ]
+    },
+    {
+      "nome": "Gianpietro Luca",
+      "titoli": [
+        "ISA"
       ]
     },
     {
@@ -152,6 +164,12 @@
     },
     {
       "nome": "Luzzi Veronica",
+      "titoli": [
+        "AIS"
+      ]
+    },
+    {
+      "nome": "Malena Giovanni",
       "titoli": [
         "AIS"
       ]
@@ -212,6 +230,12 @@
       ]
     },
     {
+      "nome": "Pizzini Mirko",
+      "titoli": [
+        "AIS"
+      ]
+    },
+    {
       "nome": "Poli Fabio",
       "titoli": [
         "IA"
@@ -226,7 +250,7 @@
     {
       "nome": "Robol Marco",
       "titoli": [
-        "ISA"
+        "INSA"
       ]
     },
     {
@@ -246,6 +270,18 @@
       "titoli": [
         "ISA",
         "AT"
+      ]
+    },
+    {
+      "nome": "Scarpari Elena",
+      "titoli": [
+        "AIS"
+      ]
+    },
+    {
+      "nome": "Tsiamyrtzis Panos",
+      "titoli": [
+        "AIS"
       ]
     },
     {
