@@ -3,7 +3,7 @@ title: Corso di Arrampicata su Cascate di Ghiaccio (ACG1) 2027
 subtitle: Stagione 2026-2027
 date: 2026-10-21T18:02:36.689Z
 start: 2026-12-16T18:02:36.689Z
-image: /img/2014_0621-22-cevedale-sdim0025-star_.jpg
+image: /img/2015_0221-fontanazzo-di-sinistra-sdim0044-5star_.jpg
 ---
 
 Direttore: Cristian Farinati — +39 348 225 6197
