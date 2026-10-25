@@ -3,7 +3,7 @@ title: 3° Corso Creste — Alta Montagna (AG1)
 subtitle: Maggio - Giugno 2027
 date: 2026-10-23T18:02:36.689Z
 start: 2027-05-12T18:02:36.689Z
-image: /img/745dde14-df27-4c13-859c-95dc0c389db3.jpg
+image: /img/2015_0631-breithorn-e-lyskam-sdim0380-5star_.jpg
 ---
 
 * Mauro Natali — +39 349 3998220
