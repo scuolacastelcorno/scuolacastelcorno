@@ -1,34 +1,34 @@
-describe("empty spec", () => {
+describe("site navigation", () => {
   beforeEach(() => {
     cy.visit("/");
   });
 
   it("opens the index page", () => {
-    cy.get("h1").contains("Great coffee with a conscience");
+    cy.get("h1").contains("Scuola di Alpinismo");
   });
 
-  it("navigates to the product page", () => {
-    cy.get('a[href="/products"]').eq(0).click();
-    cy.url().should("include", "/products");
-    cy.get("h1").contains(/Our Coffee/i);
+  it("navigates to the courses page", () => {
+    cy.get('a[href="/corsi"]').eq(0).click({force: true});
+    cy.url().should("include", "/corsi");
+    cy.get("h1").contains(/Stagione/i);
   });
 
-  it("navigates to the values page", () => {
-    cy.get('a[href="/values"]').eq(0).click();
-    cy.url().should("include", "/values");
-    cy.get("h1").contains(/Values/i);
+  it("navigates to the school page", () => {
+    cy.get('a[href="/scuola"]').eq(0).click({force: true});
+    cy.url().should("include", "/scuola");
+    cy.get("h1").contains(/La Scuola/i);
   });
 
-  it("navigates to the blog page", () => {
-    cy.get('a[href="/post"]').eq(0).click();
-    cy.url().should("include", "/post");
-    cy.get("h1").contains(/Latest Stories/i);
+  it("navigates to the contact page", () => {
+    cy.get('a[href="/contact"]').eq(0).click({force: true});
+    cy.url().should("include", "/contact");
+    cy.get("h1").contains(/Contatti/i);
   });
 });
 
-describe("validate blog", () => {
-  it("should have only 3 blog posts by default", () => {
-    cy.visit("/post");
-    cy.get("ul#blog-list li").should("have.length", 3);
+describe("courses", () => {
+  it("lists the current courses", () => {
+    cy.visit("/corsi");
+    cy.get("ul#blog-list li").should("have.length", 4);
   });
 });

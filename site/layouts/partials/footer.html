@@ -23,7 +23,6 @@
 					<li><a href="/" class="link">Home</a></li>
 					<li><a href="/corsi" class="link">Corsi</a></li>
 					<li><a href="/scuola" class="link">La scuola</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
 					<li><a href="/contact" class="link">Contatti</a></li>
 				</ul>
 			</div>
@@ -33,10 +32,8 @@
 				<h3 class="f4 b lh-title mb1 primary">Corsi</h3>
 				<ul class="mb3">
 					{{ with .Site.GetPage "section" "corsi" }}
-        				{{ range last 1 (sort .Sections "Permalink") }}
-							{{ range .Pages }}
-								<li><a href="{{ .Permalink }}" class="link">{{ .Title }}</a></li>
-							{{ end }}
+						{{ range .Pages }}
+							<li><a href="{{ .Permalink }}" class="link">{{ .Title }}</a></li>
 						{{ end }}
 					{{ end }}
 				</ul>
@@ -55,4 +52,3 @@
 	</div>
 
 </footer>
-

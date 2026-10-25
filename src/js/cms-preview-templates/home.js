@@ -1,5 +1,5 @@
 import React from "react";
-import { marked } from "marked";
+import {marked} from "marked";
 
 import Jumbotron from "./components/jumbotron";
 
@@ -13,7 +13,7 @@ export default class HomePreview extends React.Component {
     const subtitleHtml = marked.parse(subtitle);
 
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={<span dangerouslySetInnerHTML={{ __html: subtitleHtml }} />}/>
+      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={<span dangerouslySetInnerHTML={{__html: subtitleHtml}} />}/>
 
       <div className="bg-grey-1 pv4">
         <div className="flex-l mhn1-l ph3 center mw7">

@@ -1,9 +1,9 @@
 {{ define "main" }}
 
 <div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+	{{ partial "jumbotron" (dict "imageUrl" .Params.logo "title" .Title) }}
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+	<div class="center mw6 pv3">
 		
 		{{ .Content }}
 
