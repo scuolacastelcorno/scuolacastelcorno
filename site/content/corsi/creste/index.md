@@ -11,7 +11,7 @@ image: /img/2015_0631-breithorn-e-lyskam-sdim0380-5star_.jpg
 
 ## Iscrizione
 
-Costo: **350 €** (320 € per i minori di 21 anni). Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
+Costo: **350 €** (300 € per i minori di 21 anni). Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
 
 Per iscriversi al corso è necessario compilare il seguente modulo di preiscrizione https://forms.gle/8ExZgrwPcnWWramu6.
 
