@@ -10,7 +10,7 @@ Direttore: Marco Robol — 377 1372310
 
 Vicedirettore: Piarosa Vigagni — 349 5121336
 
-Quota iscrizione: **380,00 €** (350,00 € se minore di 21 anni)
+Quota iscrizione: **380,00 €** (330,00 € se minore di 21 anni)
 
 ---
 
