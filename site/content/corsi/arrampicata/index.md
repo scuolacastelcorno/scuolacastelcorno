@@ -11,7 +11,7 @@ image: /img/2015_0621-andrea-mancin-tognazza-sdim0285-4star_.jpg
 
 ## Iscrizione
 
-Costo: **350 €** (320 € per i minori di 21 anni). Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
+Costo: **250 €**. Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
 
 Le lezioni teoriche si terranno presso la sede SAT di Mori, il giovedì.
 
