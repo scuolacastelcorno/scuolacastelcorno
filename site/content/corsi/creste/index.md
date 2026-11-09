@@ -11,14 +11,21 @@ image: /img/2015_0631-breithorn-e-lyskam-sdim0380-5star_.jpg
 
 ## Iscrizione
 
-Costo: **350 €** (300 € per i minori di 21 anni). Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
+<strong><font color="red">
+ATTENZIONE!
 
-Per iscriversi al corso è necessario compilare il seguente modulo di preiscrizione https://forms.gle/8ExZgrwPcnWWramu6.
+- Abbiamo raggiunto e ampiamente superato la quota massima di iscritti. Ci teniamo il riservo di valutare i curriculum e decidere chi ammettere al corso. Vi ricontatteremo entro la fine dell'anno.
+</font></strong>
 
-La candidatura sarà valutata in base all’esperienza e al curriculum individuale.
+- Le iscrizioni sono CHIUSE https://forms.gle/8ExZgrwPcnWWramu6. La candidatura sarà valutata in base all’esperienza e al curriculum individuale.
+
 Partecipanti: **8-9 al massimo**.
 
+Costo: **350 €** (300 € per i minori di 21 anni). Sono esclusi dalla quota i pernottamenti in rifugio e i trasporti.
+
 Per l’iscrizione sono richiesti certificato medico per attività non agonistica, **bollino CAI-SAT con integrazione assicurativa** e quota di iscrizione.
+
+---
 
 ## Programma
 
