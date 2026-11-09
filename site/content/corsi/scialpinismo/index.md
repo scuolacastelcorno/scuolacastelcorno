@@ -10,15 +10,25 @@ Direttore: Marco Robol — 377 1372310
 
 Vicedirettore: Piarosa Vigagni — 349 5121336
 
-Quota iscrizione: **380,00 €** (330,00 € se minore di 21 anni)
+---
+
+<strong><font color="red">
+ATTENZIONE!!! - 9 Novembre 2026
+
+Abbiamo raggiunto la quota massima di iscritti. Rimane aperta la possibilità di compilare il modulo. Verrete ricontatti se si liberano posti.
+</font></strong>
 
 ---
+
+Quota iscrizione: **380,00 €** (330,00 € se minore di 21 anni)
 
 SA1 è un **corso di livello base** rivolto a tutti coloro che, per la prima volta, affrontano la montagna invernale per praticare l’attività scialpinistica. È richiesta sufficiente abilità sciatoria; sono ammessi sia scialpinisti sia partecipanti con tavola splitboard.
 
 Il corso insegna, attraverso lezioni teoriche e uscite sul terreno, le nozioni fondamentali per svolgere l’attività scialpinistica con ragionevole sicurezza su itinerari non impegnativi, con particolare attenzione alla prevenzione del pericolo valanghe.
 
 Numero massimo partecipanti: **25**
+
+---
 
 ## Iscrizione
 
@@ -30,6 +40,8 @@ Per finalizzare l'iscrizione, da effettuare al momento dell'inizio del corso, si
 * attestazione di iscrizione CAI/SAT per l’anno in corso. Per i non soci CAI/SAT sarà possibile iscriversi il giorno stesso alla Sezione SAT di Rovereto.
 
 La quota comprende l’uso del materiale di autosoccorso (ARTVA, sonda e pala), se non in possesso, e l’attestato di frequenza. Sono escluse le spese di trasferimento, vitto, alloggio ed eventuali impianti di risalita per la prima uscita. La scuola non fornisce il noleggio dell’attrezzatura scialpinistica.
+
+---
 
 ## Programma
 
